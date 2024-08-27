@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhlananh&style=for-the-badge&color=blue&abbreviated=true&base=3000" alt="github profile views counter">
+  <img src="https://komarev.com/ghpvc/?username=dhlananh&style=for-the-badge&color=blue&abbreviated=false&base=3000" alt="github profile views counter">
 </div>
 
 <!-- Introduction -->
