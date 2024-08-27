@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 
 # 💳 GitHub Profile Summary Card
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhlananhh&theme=dracula"/>
+<!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhlananhh&theme=dracula"/> -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhlananhh&theme=dracula)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhlananhh&theme=dracula&utcOffset=8)
 </div>
 
 ---
@@ -51,7 +53,14 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=dhlananhh&count_private=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" height="200" alt="streak stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
     height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhlananhh&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhlananhh&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=dracula&hide_border=false" 
+    height="200" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&hide_border=false" 
+    height="200" alt="top languages by repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&hide_border=false" 
+    height="200" alt="most commit languages" />
+<!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhlananhh&theme=dracula) -->
+<!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula) -->
 </div>
 
 ---
