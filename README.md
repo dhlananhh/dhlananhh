@@ -1,22 +1,3 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhlananh&style=for-the-badge&color=blue&abbreviated=true&base=1000" alt="github profile views counter">
-</div>
-
-<!-- Introduction -->
-<div align="left">
-  <h1>👋 Hi, I'm Lan Anh. Welcome to my Github! 😙</h1>
-  🧏🏻‍♀️ I'm a Junior Developer with a passion for building web applications using modern technologies, and currently living in Ho Chi Minh City, Vietnam. <br/>
-  👩🏻‍💻 I'm studying Software Engineering in my final year in Industrial University of Ho Chi Minh City. <br/>
-  💭 At the moment, I am working on full-stack projects to improve my skills and experiences.
-</div>
-
----
-
 <!--
 **dhlananhh/dhlananhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,6 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhlananh&style=for-the-badge&color=blue&abbreviated=true&base=3000" alt="github profile views counter">
+</div>
+
+<!-- Introduction -->
+<div align="left">
+  <h1>👋 Hi, I'm Lan Anh. Welcome to my Github! 😙</h1>
+  🧏🏻‍♀️ I'm a Junior Developer with a passion for building web applications using modern technologies, and currently living in Ho Chi Minh City, Vietnam. <br/>
+  👩🏻‍💻 I'm studying Software Engineering in my final year in Industrial University of Ho Chi Minh City. <br/>
+  💭 At the moment, I am working on full-stack projects to improve my skills and experiences.
+</div>
+
+---
+
+# 💳 GitHub Profile Summary Card
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhlananhh&theme=dracula"/>
+</div>
+
+---
 
 # ⚡ My Github Stats ⚡
 <!-- ![Lan Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
