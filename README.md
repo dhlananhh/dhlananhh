@@ -35,9 +35,11 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwind,mui,javascript,c,react,nextjs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwind,mui,javascript,c,react,nextjs" />
   <br>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,figma,discord" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,stackoverflow,figma,discord,idea,pycharm,powershell,notion,sublime" />
   <br>
 </div>
 
