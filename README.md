@@ -45,6 +45,16 @@ Here are some ideas to get you started:
 
 ---
 
+<div align="center">
+  <h1>🐍 My Contributions 🐍</h1>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+---
+
 # Contact Me
 <div align="left">
   <!-- Gmail -->
