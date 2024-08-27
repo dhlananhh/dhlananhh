@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ✨ My Github Stats ✨
+# ⚡ My Github Stats ⚡
 <!-- ![Lan Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
 <div align="center">
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ---
 
-# Languages and Tools I use frequently
+# 💻 Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwind,mui,javascript,c,react,nextjs,mongodb,mysql" />
   <br>
