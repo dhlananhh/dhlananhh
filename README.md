@@ -1,6 +1,11 @@
-# 👋 Hi, I'm Lan Anh. Welcome to my Github! 😙
-👩🏻‍💻 I'm studying Software Engineering in my final year in Industrial University of Ho Chi Minh City. <br/>
-💭 Currently, I am working on full-stack projects to improve my skills and experience.
+<div align="left">
+  <h2>👋 Hi, I'm Lan Anh. Welcome to my Github! 😙</h2> <br/>
+  👩🏻‍💻 I'm studying Software Engineering in my final year in Industrial University of Ho Chi Minh City. <br/>
+  💭 Currently, I am working on full-stack projects to improve my skills and experience.
+
+</div>
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <!--
 **dhlananhh/dhlananhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
