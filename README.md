@@ -1,8 +1,9 @@
 <!-- Introduction -->
 <div align="left">
   <h1>👋 Hi, I'm Lan Anh. Welcome to my Github! 😙</h1>
+  🧏🏻‍♀️ I'm a Junior Developer with a passion for building web applications using modern technologies, and currently living in Ho Chi Minh City, Vietnam. <br/>
   👩🏻‍💻 I'm studying Software Engineering in my final year in Industrial University of Ho Chi Minh City. <br/>
-  💭 Currently, I am working on full-stack projects to improve my skills and experience.
+  💭 At the moment, I am working on full-stack projects to improve my skills and experiences.
 </div>
 
 ---
