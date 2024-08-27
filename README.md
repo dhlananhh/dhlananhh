@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lan Anh. Welcome to my Github 😙
-👩🏻‍💻 I'm studying Software Engineering in my final year in Industrial University of Ho Chi Minh City.
+👩🏻‍💻 I'm studying Software Engineering in my final year in Industrial University of Ho Chi Minh City. <br/>
 💭 Currently, I am working on full-stack projects to improve my skills and experience.
 
 <!--
