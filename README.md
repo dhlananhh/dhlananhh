@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 
 <!-- Introduction -->
 <div align="left">
-  <h1>👋 Hi, I'm Lan Anh. Welcome to my Github! 😙</h1>
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+    Hi, I'm Lan Anh. 
+    Welcome to my Github! 😙
+  </h1>
   🧏🏻‍♀️ I'm a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for building web applications using modern technologies, and currently living in Ho Chi Minh City, Vietnam. <br/>
   👩🏻‍💻 I'm studying Software Engineering in my final year in Industrial University of Ho Chi Minh City. <br/>
   💭 At the moment, I am working on full-stack projects to improve my skills and experiences.
