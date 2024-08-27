@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 # Languages and Tools I use frequently
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwind,mui,javascript,c,react,nextjs,mariadb,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwind,mui,javascript,c,react,nextjs,mongodb,mysql" />
   <br>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,figma,git,discord" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,figma,discord" />
   <br>
 </div>
