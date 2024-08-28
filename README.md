@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-# 💳 GitHub Profile Summary Card
+# 💳 My GitHub Profile Summary Card
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhlananhh&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhlananhh&theme=dracula"/>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-# ⚡ My Github Stats ⚡
+# ⚡ My Github Stats
 <!-- ![Lan Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
 <div align="center">
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 ---
 
-# Contact Me
+# 📩 Contact Me
 <div align="left">
   <!-- Gmail -->
   <a href="mailto:dhlananh2309@gmail.com" target="_blank">
