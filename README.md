@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 # 💳 GitHub Profile Summary Card
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhlananhh&theme=dracula" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhlananhh&theme=dracula"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhlananhh&theme=dracula&utcOffset=7"/>
 </div>
