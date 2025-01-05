@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     Welcome to my Github! 😙
   </h1>
   🧏🏻‍♀️ I'm a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for building web applications using modern technologies, and currently living in Ho Chi Minh City, Vietnam. <br/>
-  👩🏻‍💻 I'm studying Software Engineering in my final year in Industrial University of Ho Chi Minh City. <br/>
+  👩🏻‍💻 I'm studying Software Engineering in my final year at the Industrial University of Ho Chi Minh City. <br/>
   💭 At the moment, I am working on full-stack projects to improve my skills and experiences. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" />
 </div>
 
