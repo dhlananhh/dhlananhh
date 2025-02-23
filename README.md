@@ -40,13 +40,6 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    height="400" alt="Github Profile Quote" />
-</div>
-
----
-
 # 🏆 My Github Profile Trophy
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhlananhh&theme=dracula&row=2&column=4"
@@ -97,6 +90,13 @@ Here are some ideas to get you started:
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhlananhh/dhlananhh/output/github-contribution-grid-snake.gif" />
 
   <br/><br/><br/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    height="400" alt="Github Profile Quote" />
 </div>
 
 ---
