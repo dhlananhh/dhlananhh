@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 
 <!-- Header Banner -->
+
 <div align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611kt6ydv8c6ar20wtp0kqq9v5j2lccb6hjpwhc9itf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" />
@@ -59,7 +60,7 @@ Here are some ideas to get you started:
     height="200" alt="languages graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&hide_border=false" 
     height="200" alt="top languages by repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&hide_border=false" 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language/?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&hide_border=false" 
     height="200" alt="most commit languages" />
 <!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhlananhh&theme=dracula) -->
 <!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula) -->
