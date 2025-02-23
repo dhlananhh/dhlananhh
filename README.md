@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div align="left">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
-    Hi, I'm Lan Anh. 
+    Hi, I'm Lan Anh.
     Welcome to my Github! 😙
   </h1>
   🧏🏻‍♀️ I'm a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for building web applications using modern technologies, and currently living in Ho Chi Minh City, Vietnam. <br/>
@@ -50,20 +50,18 @@ Here are some ideas to get you started:
 ---
 
 # ⚡ My Github Stats
-<!-- ![Lan Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dhlananhh&count_private=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" height="200" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
-    height="400" weight="400" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=11&theme=dracula&hide_border=false" 
+  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    height="300" weight="300" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=11&theme=dracula&hide_border=false"
     height="200" alt="languages graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&hide_border=false" 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&hide_border=false"
     height="200" alt="top languages by repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language/?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&hide_border=false" 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language/?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&hide_border=false"
     height="200" alt="most commit languages" />
-<!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhlananhh&theme=dracula) -->
-<!--   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlananhh&layout=compact&theme=dracula&hide_border=true&langs_count=11" alt="languages graph" height="200"/>
+  <br/>
 </div>
 
 ---
@@ -84,7 +82,7 @@ Here are some ideas to get you started:
   <h1>🐍 My Contributions 🐍</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhlananhh/dhlananhh/output/github-contribution-grid-snake.gif" />
-  
+
   <br/><br/><br/>
 </div>
 
