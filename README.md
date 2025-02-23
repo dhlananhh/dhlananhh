@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 # 🏆 My Github Profile Trophy
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhlananhh&theme=dracula&row=2&column=4"
+  <img src="https://github-profile-trophy.vercel.app/?username=dhlananhh&theme=dracula&row=2&column=4&margin-w=5&margin-h=5"
     height="400" alt="Github Profile Trophy" />
 </div>
 
