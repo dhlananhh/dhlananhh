@@ -39,6 +39,12 @@ Here are some ideas to get you started:
 </div>
 
 ---
+# Inspirational Quote
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Github Profile Quote" />
+</div>
+
+---
 
 # 🏆 My Github Profile Trophy
 <div align="center">
@@ -90,12 +96,6 @@ Here are some ideas to get you started:
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhlananhh/dhlananhh/output/github-contribution-grid-snake.gif" />
 
   <br/><br/><br/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Github Profile Quote" />
 </div>
 
 ---
