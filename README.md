@@ -40,6 +40,21 @@ Here are some ideas to get you started:
 
 ---
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    height="400" alt="Github Profile Quote" />
+</div>
+
+---
+
+# 🏆 My Github Profile Trophy
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhlananhh&theme=dracula&row=2&column=4"
+    height="400" alt="Github Profile Trophy" />
+</div>
+
+---
+
 # 💳 My GitHub Profile Summary Card
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhlananhh&theme=dracula" />
