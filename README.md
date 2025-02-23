@@ -95,8 +95,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    height="400" alt="Github Profile Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Github Profile Quote" />
 </div>
 
 ---
