@@ -83,6 +83,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhlananhh&theme=dracula&layout=compact&hide_border=true" alt="wakatime stats" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 # 💻 Tech Stack
