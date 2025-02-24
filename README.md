@@ -85,14 +85,6 @@ Here are some ideas to get you started:
 
 ---
 
-# My WakaTime Coding Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/images/stat.svg" />
-</div>
-
----
-
 # 💻 Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwind,mui,javascript,c,react,nextjs" />
