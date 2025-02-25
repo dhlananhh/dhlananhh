@@ -78,10 +78,12 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
 # 📉 My WakaTime Stats Card
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhlananhh&theme=dracula&layout=compact&hide_border=true" alt="wakatime stats" />
 </div>
+-->
 
 ---
 
