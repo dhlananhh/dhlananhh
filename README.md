@@ -65,8 +65,9 @@ Here are some ideas to get you started:
 
 # ⚡ My Github Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dhlananhh&count_private=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_border=true" alt="GitHub Streak" height="200" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=dhlananhh&theme=dracula&hide_border=true" alt="GitHub Streak" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     height="300" weight="300" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlananhh&layout=compact&card_width=200&theme=dracula&hide_border=true&langs_count=11" alt="languages graph" height="300" weight="300" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=6&hide_border=true"
