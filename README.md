@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <!-- Header Banner -->
 
 <div align="center">
@@ -39,7 +38,9 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
 # 💭 Inspirational Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Github Profile Quote" />
 </div>
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
 ---
 
 # 🏆 My Github Profile Trophy
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhlananhh&theme=dracula&row=2&column=4&margin-w=5&margin-h=5"
     height="400" alt="Github Profile Trophy" />
@@ -55,6 +57,7 @@ Here are some ideas to get you started:
 ---
 
 # 💳 My GitHub Profile Summary Card
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhlananhh&theme=dracula"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhlananhh&theme=dracula" />
@@ -64,9 +67,10 @@ Here are some ideas to get you started:
 ---
 
 # ⚡ My Github Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="200" />
-  <img src="[https://streak-stats.demolab.com/?user=dhlananhh&theme=dracula&hide_border=true](https://streak-stats.demolab.com?user=dhlananhh&theme=dracula&hide_border=true)" alt="GitHub Streak" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=dhlananhh&theme=dracula&hide_border=true" alt="GitHub Streak" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     height="300" weight="300" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlananhh&layout=compact&card_width=200&theme=dracula&hide_border=true&langs_count=11" alt="languages graph" height="300" weight="300" />
@@ -80,6 +84,7 @@ Here are some ideas to get you started:
 ---
 
 # 💻 Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,html,css,bootstrap,tailwind,mui,javascript,c,react,nextjs" />
   <br>
@@ -94,14 +99,17 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>🐍 My Contributions 🐍</h1>
   <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhlananhh&theme=dracula&hide_border=true" alt="contribution graph" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhlananhh/dhlananhh/output/github-contribution-grid-snake.gif" />
 
-  <br/><br/><br/>
+<br/><br/><br/>
+
 </div>
 
 ---
 
 # 📩 Contact Me
+
 <div align="left">
   <!-- Gmail -->
   <a href="mailto:dhlananh2309@gmail.com" target="_blank">
