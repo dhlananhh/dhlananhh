@@ -32,9 +32,9 @@ Here are some ideas to get you started:
     Hi, I'm Lan Anh.
     Welcome to my Github! 😙
   </h1>
-  🧏🏻‍♀️ I'm a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a passion for building web applications using modern technologies, and currently living in Ho Chi Minh City, Vietnam. <br/>
-  👩🏻‍💻 I'm studying Software Engineering in my final year at the Industrial University of Ho Chi Minh City. <br/>
-  💪 At the moment, I am working on full-stack projects to improve my skills and experiences. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30" />
+  🧏🏻‍♀️ I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building web applications using modern technologies, and currently living in Ho Chi Minh City, Vietnam. <br/>
+  👩🏻‍💻 I'm studying Software Engineering in my final year at the Industrial University of Ho Chi Minh City. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBkN2VtcW1hOXlrbzBwb250cGF6MnZtOHZjZGFxeHpqcHVtcWlqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="40" /> <br/>
+  💪 At the moment, I am working on full-stack projects to improve my skills and experiences. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" />
 </div>
 
 ---
@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 # ⚡ My Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" height="200" />
   <img src="https://streak-stats.demolab.com/?user=dhlananhh&theme=dracula&hide_border=true" alt="GitHub Streak" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
     height="300" weight="300" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlananhh&layout=compact&card_width=200&theme=dracula&hide_border=true&langs_count=20" alt="languages graph" height="300" weight="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlananhh&layout=compact&card_width=200&theme=dracula&hide_border=true&langs_count=20" alt="most used languages graph" height="300" weight="300" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=6&hide_border=true"
     height="200" alt="top languages by repo" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language/?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=6&hide_border=true"
