@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     Welcome to my Github! 😙
   </h1>
   🧏🏻‍♀️ I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building web applications using modern technologies, and currently living in Ho Chi Minh City, Vietnam. <br/>
-  👩🏻‍💻 I'm studying Software Engineering in my final year at the Industrial University of Ho Chi Minh City. <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBkN2VtcW1hOXlrbzBwb250cGF6MnZtOHZjZGFxeHpqcHVtcWlqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="40" /> <br/>
+  👩🏻‍💻 I'm studying Software Engineering in my final year at the Industrial University of Ho Chi Minh City. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="40" /> <br/>
   💪 At the moment, I am working on full-stack projects to improve my skills and experiences. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" />
 </div>
 
