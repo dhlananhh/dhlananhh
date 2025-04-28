@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
-  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611kt6ydv8c6ar20wtp0kqq9v5j2lccb6hjpwhc9itf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" />
-  <img src="https://media.giphy.com/media/upeUCSCeNo4qqHlxgW/giphy.gif?cid=ecf05e47yg2xaqqfoc8s2coq4cldpm892nk1qvoui1btj8am&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="100" />
+  <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611kt6ydv8c6ar20wtp0kqq9v5j2lccb6hjpwhc9itf&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="150" />
 </div>
 
 <div align="center">
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
     Hi, I'm Lan Anh.
     Welcome to my Github! 😙
   </h1>
-  🙋🏻‍♀️ I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building web applications using modern technologies, <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="40" /> and currently living in Ho Chi Minh City, Vietnam. <br/>
+  🙋🏻‍♀️ I'm a Software Engineering student with a passion <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> for building web applications using modern technologies, <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VteDJ5Y2twaWVwMTdmZGszOW4zbDk1Ym9obmVocXlyZGt3ZjN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="40" /> and currently living in Ho Chi Minh City, Vietnam. <img src="https://media.giphy.com/media/upeUCSCeNo4qqHlxgW/giphy.gif?cid=ecf05e47yg2xaqqfoc8s2coq4cldpm892nk1qvoui1btj8am&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="40" /> <br/>
   👩🏻‍💻 I'm studying Software Engineering in my final year at the Industrial University of Ho Chi Minh City. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYxcHlncmM4cm5zenJzYndhMjc3Y2ZiMnhyN2RkNXo2eWRvdHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kwLOtSFR0lf4MfhPZj/giphy.gif" width="40" /> <br/>
   💪🏻 At the moment, I am working on full-stack projects to improve my skills and experiences. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" /> <br/>
   💁🏻‍♀️ Feel free to chat with me! 💅🏻 ✨
