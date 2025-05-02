@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ---
 
-# ⚡ My Github Stats
+# ✨ My Github Stats
 
 <div align="center">
   <img src="https://stats.hyo.dev/api/github-stats-advanced?login=dhlananhh" alt="Github Stats by HyoChan">
