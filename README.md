@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <table align="center" width="100%">
   <tr>
     <td align="center" width="200" valign="top">
-      <h4>📋 Programming Languages</h4>
+      <h3>📋 Programming Languages</h3>
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center" width="200" valign="top">
-      <h4>💾 Databases</h4>
+      <h3>💾 Databases</h3>
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
@@ -142,7 +142,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center" width="200" valign="top">
-      <h4>🕓 Version Control</h4>
+      <h3>🕓 Version Control</h3>
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -153,7 +153,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center" width="200" valign="top">
-      <h4>🔨 Tools & Editors</h4>
+      <h3>🔨 Tools & Editors</h3>
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
@@ -167,7 +167,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center" width="200" valign="top">
-      <h4>🥅 Others</h4>
+      <h3>🥅 Others</h3>
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
