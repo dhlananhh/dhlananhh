@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ---
 
-# :zap: Recent Activity
+# :zap: Recent Activities
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#31](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/31) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
