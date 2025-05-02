@@ -68,6 +68,15 @@ Here are some ideas to get you started:
 # ⚡ My Github Stats
 
 <div align="center">
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=dhlananhh" alt="Github Stats by HyoChan">
+</div>
+
+---
+
+<details>
+<summary><h1>My Other Github Stats</h1></summary>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" height="200" />
   <img src="https://streak-stats.demolab.com/?user=dhlananhh&theme=dracula&hide_border=true" alt="GitHub Streak" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
@@ -79,6 +88,7 @@ Here are some ideas to get you started:
     height="200" alt="most commit languages" />
   <br/>
 </div>
+</details>
 
 ---
 
@@ -211,9 +221,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <!-- Discord -->
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <img src="https://dcbadge.limes.pink/api/shield/896032453263753226" alt="My Discord" />
   <!-- Facebook  -->
   <a href="https://www.facebook.com/dhlananhh" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
