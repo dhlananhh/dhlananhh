@@ -68,9 +68,9 @@ Here are some ideas to get you started:
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5037](https://github.com/hoppscotch/hoppscotch/pull/5037) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🗣 Commented on [#5013](https://github.com/hoppscotch/hoppscotch/issues/5013#issuecomment-2846849070) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🎉 Merged PR [#4694](https://github.com/hoppscotch/hoppscotch/pull/4694) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+1. 💪 Opened PR [#31](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/31) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
+2. 💪 Opened PR [#17](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/17) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
+3. 💪 Opened PR [#27](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/27) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
 4. 🎉 Merged PR [#4388](https://github.com/hoppscotch/hoppscotch/pull/4388) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 5. 🎉 Merged PR [#3535](https://github.com/hoppscotch/hoppscotch/pull/3535) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
