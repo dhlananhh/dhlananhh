@@ -80,7 +80,77 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 558 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 61 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+🌆 Daytime                384 commits         ████████░░░░░░░░░░░░░░░░░   33.39 % 
+🌃 Evening                535 commits         ████████████░░░░░░░░░░░░░   46.52 % 
+🌙 Night                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   205 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Wednesday                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+Thursday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Saturday                 203 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Sunday                   256 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
+
+
+ Last Updated on 03/05/2025 10:37:30 UTC
 <!--END_SECTION:waka-->
 
 ---
