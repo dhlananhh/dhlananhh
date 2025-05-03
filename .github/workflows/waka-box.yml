@@ -1,18 +1,19 @@
-name: Update gist with WakaTime stats
+name: Waka Gist Update
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  # Manual triggers with workflow_dispatch
+    - cron: '*/30 * * * *'
   workflow_dispatch:
+
 jobs:
   update-gist:
+    name: Update WakaTime Gist
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
-      - name: Update gist
-        uses: matchai/waka-box@master
+      - name: Update Gist with WakaTime stats
+        uses: YouEclipse/waka-box@v0.1.8 # Hoặc sử dụng @master, nhưng tag cụ thể ổn định hơn
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        with:
+          GIST_ID: "115a231cb098cb5d2c033e8f41cbf4fb"
