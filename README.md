@@ -159,10 +159,6 @@ PHP                      1 repo              ░░░░░░░░░░░�
  Last Updated on 03/05/2025 11:52:54 UTC
 <!--END_SECTION:waka-->
 
-<!-- waka-box start -->
-
-<!-- waka-box end -->
-
 ---
 
 # ✨ My Github Stats
