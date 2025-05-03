@@ -166,7 +166,9 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ---
 
 <details>
-<summary><h1>My Journey</h1></summary>
+<summary>
+  <h1>🚀 My Journey</h1>
+</summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" height="200" />
@@ -180,6 +182,23 @@ PHP                      1 repo              ░░░░░░░░░░░�
     height="200" alt="most commit languages" />
   <br/>
 </div>
+</details>
+
+---
+
+<details>
+<summary>
+  <h1>
+    <span>
+      <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f4da.svg" alt="book" width="35">
+    </span>
+    Books I'm currently reading
+  </h1>
+</summary>
+
+<!-- GOODREADS-LIST:START -->
+
+<!-- GOODREADS-LIST:END -->
 </details>
 
 ---
