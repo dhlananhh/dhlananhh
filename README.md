@@ -168,7 +168,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" height="200" />
-  <img src="https://streak-stats.demolab.com/?user=dhlananhh&theme=dracula&hide_border=true" alt="GitHub Streak" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhlananhh&theme=dracula&hide_border=true" alt="GitHub Streak" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
     height="300" weight="300" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlananhh&layout=compact&card_width=200&theme=dracula&hide_border=true&langs_count=20" alt="most used languages graph" height="300" weight="300" />
