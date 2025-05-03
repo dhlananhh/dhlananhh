@@ -77,6 +77,14 @@ Here are some ideas to get you started:
 
 ---
 
+# 📊 My WakaTime Stats
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
+
 # ✨ My Github Stats
 
 <div align="center">
