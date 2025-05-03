@@ -58,9 +58,13 @@ Here are some ideas to get you started:
 # 💳 My GitHub Profile Summary Card
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhlananhh&theme=dracula"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhlananhh&theme=dracula" alt="profile details card" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhlananhh&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhlananhh&theme=dracula&utcOffset=7"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhlananhh&theme=dracula&utcOffset=7" alt="productive time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=6&hide_border=true"
+    height="200" alt="top languages by repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language/?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=6&hide_border=true"
+    height="200" alt="most commit languages" />
 </div>
 
 ---
@@ -176,10 +180,6 @@ PHP                      1 repo              ░░░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
     height="300" weight="300" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlananhh&layout=compact&card_width=200&theme=dracula&hide_border=true&langs_count=20" alt="most used languages graph" height="300" weight="300" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=6&hide_border=true"
-    height="200" alt="top languages by repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language/?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=6&hide_border=true"
-    height="200" alt="most commit languages" />
   <br/>
 </div>
 </details>
