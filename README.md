@@ -71,17 +71,13 @@ Here are some ideas to get you started:
 
 # :zap: Recent Activities
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 4th, 2025, 1:37:45 AM
-<!--RECENT_ACTIVITY:last_update_end-->
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-2. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+1. 💪 Opened PR [#31](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/31) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
+2. 💪 Opened PR [#17](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/17) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
+3. 💪 Opened PR [#27](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/27) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
+4. 🎉 Merged PR [#4388](https://github.com/hoppscotch/hoppscotch/pull/4388) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+5. 🎉 Merged PR [#3535](https://github.com/hoppscotch/hoppscotch/pull/3535) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
+<!--END_SECTION:activity-->
 
 ---
 
