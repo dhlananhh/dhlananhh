@@ -3,7 +3,7 @@ run-name: Automated update
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 0 10,12 * * *'
   workflow_dispatch:
 
 jobs:
