@@ -2,7 +2,7 @@ name: Update README with recent activities
 
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
   push:
     branches:
@@ -19,5 +19,3 @@ jobs:
         uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        with:
-          CONFIG_FILE: '../recent-activity.config.yml'
