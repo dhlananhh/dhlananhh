@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 # :zap: Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/31) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
-2. 💪 Opened PR [#17](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/17) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
-3. 💪 Opened PR [#27](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/27) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
+1. 🎉 Merged PR [#3](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/3) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+2. 🎉 Merged PR [#1](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/1) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+3. 🎉 Merged PR [#2](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/2) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
 4. 🎉 Merged PR [#1](https://github.com/dhlananhh/green_grocery/pull/1) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery/)
 5. 🎉 Merged PR [#1](https://github.com/dhlananhh/green_grocery/pull/2) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery/)
 <!--END_SECTION:activity-->
