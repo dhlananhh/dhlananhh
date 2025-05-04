@@ -1,11 +1,18 @@
 settings:
   username: "dhlananhh"
+  commit_msg: "⚡ Update README with the recent activity"
   maxlines: 10
   readme_file: "./README.md"
+  disabled_events:
+    - "comments"
+  url_text: "{REPO}{ID}"
   date:
     timezone: "Asia/Ho_Chi_Minh"
     text: "Last Updated on {DATE}"
     format: "dddd, d/m/yy h:mm TT"
+  commit_name: "readme-bot"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  line_prefix: "{NUM}. "
   ignored_repos:
     - dhlananhh/dhlananhh
 messages:
