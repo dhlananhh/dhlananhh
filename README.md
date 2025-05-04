@@ -88,63 +88,63 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 61 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 61 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                384 commits         ████████░░░░░░░░░░░░░░░░░   32.43 % 
-🌃 Evening                569 commits         ████████████░░░░░░░░░░░░░   48.06 % 
-🌙 Night                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
+🌆 Daytime                384 commits         ████████░░░░░░░░░░░░░░░░░   32.43 %
+🌃 Evening                569 commits         ████████████░░░░░░░░░░░░░   48.06 %
+🌙 Night                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   205 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Wednesday                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Thursday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Saturday                 237 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Sunday                   256 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Monday                   205 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 %
+Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 %
+Wednesday                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Thursday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
+Saturday                 237 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
+Sunday                   256 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 % 
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 %
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 %
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 %
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 
@@ -173,11 +173,11 @@ PHP                      1 repo              ░░░░░░░░░░░�
 </summary>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&include_all_commits=true&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" height="200" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhlananhh&theme=dracula&hide_border=true" alt="GitHub Streak" height="200" />
   <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
     height="300" weight="300" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlananhh&layout=compact&card_width=200&theme=dracula&hide_border=true&langs_count=20" alt="most used languages graph" height="300" weight="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhlananhh&layout=compact&card_width=200&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&langs_count=20" alt="most used languages graph" height="300" weight="300" />
   <br/>
 </div>
 </details>
