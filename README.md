@@ -88,67 +88,70 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-294-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage
- >
-> 🚫 Not Opted to Hire
- >
-> 📜 61 Public Repositories
- >
-> 🔑 0 Private Repositories
- >
-**I'm a Night 🦉**
-
-```text
-🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-🌆 Daytime                384 commits         ████████░░░░░░░░░░░░░░░░░   32.43 %
-🌃 Evening                569 commits         ████████████░░░░░░░░░░░░░   48.06 %
-🌙 Night                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-```
-📅 **I'm Most Productive on Sunday**
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 61 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-Monday                   205 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 %
-Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 %
-Wednesday                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Thursday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-Saturday                 237 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Sunday                   256 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 %
+🌞 Morning                147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+🌆 Daytime                427 commits         ████████░░░░░░░░░░░░░░░░░   33.92 % 
+🌃 Evening                585 commits         ████████████░░░░░░░░░░░░░   46.47 % 
+🌙 Night                  100 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   210 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Wednesday                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+Thursday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Saturday                 248 commits         █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Sunday                   315 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages:
-No Activity Tracked This Week
+💬 Programming Languages: 
+YAML                     2 hrs 1 min         █████████████████░░░░░░░░   68.36 % 
+Markdown                 44 mins             ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
-🔥 Editors:
-No Activity Tracked This Week
+🔥 Editors: 
+VS Code                  2 hrs 58 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects:
-No Activity Tracked This Week
+🐱‍💻 Projects: 
+dhlananhh                2 hrs 58 mins       █████████████████████████   100.00 % 
 
-💻 Operating System:
-No Activity Tracked This Week
+💻 Operating System: 
+Windows                  2 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 %
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 %
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 %
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
@@ -158,18 +161,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
-**Languages over All time**
-
-<!-- <a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@dhlananhh/bc75ef03-cba6-4ac0-9280-0200bd79606d.svg" />
-</a> -->
-
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@dhlananhh/188bcaa3-8998-4a10-acf6-79bbab5cb1a5.svg" />
-</a>
-
-
- Last Updated on 03/05/2025 18:43:12 UTC
+ Last Updated on 04/05/2025 18:44:09 UTC
 <!--END_SECTION:waka-->
 
 ---
