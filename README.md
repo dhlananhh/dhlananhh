@@ -71,13 +71,13 @@ Here are some ideas to get you started:
 
 # :zap: Recent Activities
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#31](https://github.com/minhlq2003/bookstore-frontend-nextjs/pull/31) in [minhlq2003/bookstore-frontend-nextjs](https://github.com/minhlq2003/bookstore-frontend-nextjs)
 2. 💪 Opened PR [#17](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/17) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
 3. 💪 Opened PR [#27](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/27) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
 4. 🎉 Merged PR [#4388](https://github.com/hoppscotch/hoppscotch/pull/4388) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 5. 🎉 Merged PR [#3535](https://github.com/hoppscotch/hoppscotch/pull/3535) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
@@ -152,6 +152,17 @@ PHP                      1 repo              ░░░░░░░░░░░�
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
+
+
+**Languages over All time**
+
+<!-- <a href="https://wakatime.com">
+  <img src="https://wakatime.com/share/@dhlananhh/bc75ef03-cba6-4ac0-9280-0200bd79606d.svg" />
+</a> -->
+
+<a href="https://wakatime.com">
+  <img src="https://wakatime.com/share/@dhlananhh/188bcaa3-8998-4a10-acf6-79bbab5cb1a5.svg" />
+</a>
 
 
  Last Updated on 03/05/2025 18:43:12 UTC
