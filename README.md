@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 # :zap: Recent Activities
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#2](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/2) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
 2. 🎉 Merged PR [#3](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/3) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
 3. 🎉 Merged PR [#1](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/1) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
@@ -88,6 +89,7 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
@@ -95,14 +97,14 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data**
 
 > 📦 ? Used in GitHub's Storage
- >
+>
 > 🚫 Not Opted to Hire
- >
+>
 > 📜 61 Public Repositories
- >
+>
 > 🔑 0 Private Repositories
- >
-**I'm a Night 🦉**
+>
+> **I'm a Night 🦉**
 
 ```text
 🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
@@ -110,6 +112,7 @@ Here are some ideas to get you started:
 🌃 Evening                569 commits         ████████████░░░░░░░░░░░░░   48.06 %
 🌙 Night                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
 ```
+
 📅 **I'm Most Productive on Sunday**
 
 ```text
@@ -121,7 +124,6 @@ Friday                   147 commits         ███░░░░░░░░�
 Saturday                 237 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
 Sunday                   256 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 %
 ```
-
 
 📊 **This Week I Spent My Time On**
 
@@ -151,12 +153,9 @@ EJS                      3 repos             █░░░░░░░░░░�
 PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
-
 
 **Languages over All time**
 
@@ -165,11 +164,14 @@ PHP                      1 repo              ░░░░░░░░░░░�
 </a> -->
 
 <a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@dhlananhh/188bcaa3-8998-4a10-acf6-79bbab5cb1a5.svg" />
+  <img
+    src="https://wakatime.com/share/@dhlananhh/02685648-2252-4bf9-80df-37380891be13.svg"
+    alt="Languages over All time"
+  />
 </a>
 
+Last Updated on 03/05/2025 18:43:12 UTC
 
- Last Updated on 03/05/2025 18:43:12 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -256,22 +258,30 @@ PHP                      1 repo              ░░░░░░░░░░░�
       <h3>📚 Frameworks, Platforms & Libraries</h3>
     </td>
     <td valign="top">
-      <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="AntDesign"/>
-      <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/>
-      <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
-      <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI"/>
-      <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
-      <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven"/>
-      <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
-      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon"/>
-      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-      <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI"/>
+      <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="AntDesign" />
+      <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
+      <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"
+      alt="Chart.js" />
+      <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+      <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+      <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
+      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+      <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven" />
+      <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+      <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" />
+      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+      <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
+      <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" alt="Scrapy" />
+      <img src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white" alt="Semantic UI React" />
+      <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+      <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf" />
+      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
     </td>
   </tr>
   <tr>
