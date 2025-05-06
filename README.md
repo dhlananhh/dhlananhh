@@ -163,19 +163,19 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
-**Languages over All time**
-
-<!-- <a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@dhlananhh/bc75ef03-cba6-4ac0-9280-0200bd79606d.svg" />
-</a> -->
-
-<a href="https://wakatime.com">
-  <img src="https://wakatime.com/share/@dhlananhh/188bcaa3-8998-4a10-acf6-79bbab5cb1a5.svg" />
-</a>
-
 
  Last Updated on 03/05/2025 18:43:12 UTC
 <!--END_SECTION:waka-->
+
+
+**Languages over All time**
+
+<a href="https://wakatime.com">
+  <img
+    src="https://wakatime.com/share/@dhlananhh/02685648-2252-4bf9-80df-37380891be13.svg"
+    alt="Languages over All time"
+  />
+</a>
 
 ---
 
