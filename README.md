@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 # 💭 Inspirational Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Github Profile Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Github Profile Quote" />
 </div>
 
 ---
