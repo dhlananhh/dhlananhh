@@ -89,40 +89,38 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-202-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-297-blue)
 
 **🐱 My GitHub Data**
 
 > 📦 ? Used in GitHub's Storage
->
+ >
 > 🚫 Not Opted to Hire
->
+ >
 > 📜 61 Public Repositories
->
+ >
 > 🔑 0 Private Repositories
->
-> **I'm a Night 🦉**
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
-🌆 Daytime                384 commits         ████████░░░░░░░░░░░░░░░░░   32.43 %
-🌃 Evening                569 commits         ████████████░░░░░░░░░░░░░   48.06 %
-🌙 Night                  95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+🌞 Morning                191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+🌆 Daytime                467 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 %
+🌃 Evening                786 commits         █████████████░░░░░░░░░░░░   50.13 %
+🌙 Night                  124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
 ```
-
 📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   205 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 %
-Tuesday                  160 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 %
-Wednesday                85 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Thursday                 94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-Saturday                 237 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 %
-Sunday                   256 commits         █████░░░░░░░░░░░░░░░░░░░░   21.62 %
+Monday                   225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Tuesday                  168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Wednesday                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Thursday                 94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Friday                   307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
+Saturday                 304 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+Sunday                   385 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 %
 ```
 
 📊 **This Week I Spent My Time On**
@@ -131,16 +129,24 @@ Sunday                   256 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages:
-No Activity Tracked This Week
+YAML                     3 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.69 %
+JavaScript               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 %
+Markdown                 1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.75 %
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 
 🔥 Editors:
-No Activity Tracked This Week
+VS Code                  7 hrs 51 mins       █████████████████████████   100.00 %
 
 🐱‍💻 Projects:
-No Activity Tracked This Week
+dhlananhh                4 hrs 41 mins       ███████████████░░░░░░░░░░   59.81 %
+green_grocery            2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.88 %
+SoftwareArchitecture_Week15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+SoftwareArchitecture_Week4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+RemoveCommentsFromYAMLFil0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 
 💻 Operating System:
-No Activity Tracked This Week
+Windows                  7 hrs 51 mins       █████████████████████████   100.00 %
 ```
 
 **I Mostly Code in JavaScript**
@@ -164,14 +170,11 @@ PHP                      1 repo              ░░░░░░░░░░░�
 </a> -->
 
 <a href="https://wakatime.com">
-  <img
-    src="https://wakatime.com/share/@dhlananhh/02685648-2252-4bf9-80df-37380891be13.svg"
-    alt="Languages over All time"
-  />
+  <img src="https://wakatime.com/share/@dhlananhh/188bcaa3-8998-4a10-acf6-79bbab5cb1a5.svg" />
 </a>
 
-Last Updated on 03/05/2025 18:43:12 UTC
 
+ Last Updated on 03/05/2025 18:43:12 UTC
 <!--END_SECTION:waka-->
 
 ---
