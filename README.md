@@ -89,82 +89,87 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-297-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-310-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage
- >
-> 🚫 Not Opted to Hire
- >
-> 📜 61 Public Repositories
- >
-> 🔑 0 Private Repositories
- >
-**I'm a Night 🦉**
-
-```text
-🌞 Morning                191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-🌆 Daytime                467 commits         ███████░░░░░░░░░░░░░░░░░░   29.78 %
-🌃 Evening                786 commits         █████████████░░░░░░░░░░░░   50.13 %
-🌙 Night                  124 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-```
-📅 **I'm Most Productive on Sunday**
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 710 Contributions in the Year 2025
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 62 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-Monday                   225 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 %
-Tuesday                  168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 %
-Wednesday                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Thursday                 94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Friday                   307 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
-Saturday                 304 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 %
-Sunday                   385 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+🌞 Morning                224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+🌆 Daytime                543 commits         ████████░░░░░░░░░░░░░░░░░   30.80 % 
+🌃 Evening                861 commits         ████████████░░░░░░░░░░░░░   48.84 % 
+🌙 Night                  135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Tuesday                  176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Wednesday                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Thursday                 94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Friday                   307 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Saturday                 337 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Sunday                   482 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages:
-YAML                     3 hrs 49 mins       ████████████░░░░░░░░░░░░░   48.69 %
-JavaScript               1 hr 35 mins        █████░░░░░░░░░░░░░░░░░░░░   20.37 %
-Markdown                 1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   18.75 %
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+💬 Programming Languages: 
+YAML                     4 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.71 % 
+JavaScript               2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Markdown                 1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 
-🔥 Editors:
-VS Code                  7 hrs 51 mins       █████████████████████████   100.00 %
+🔥 Editors: 
+VS Code                  9 hrs 17 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects:
-dhlananhh                4 hrs 41 mins       ███████████████░░░░░░░░░░   59.81 %
-green_grocery            2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.88 %
-SoftwareArchitecture_Week15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-SoftwareArchitecture_Week4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-RemoveCommentsFromYAMLFil0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+🐱‍💻 Projects: 
+dhlananhh                5 hrs 23 mins       ██████████████░░░░░░░░░░░   58.00 % 
+green_grocery            3 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   37.85 % 
+SoftwareArchitecture_Week15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+SoftwareArchitecture_Week4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+bookstore-frontend-nextjs2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
-💻 Operating System:
-Windows                  7 hrs 51 mins       █████████████████████████   100.00 %
+💻 Operating System: 
+Windows                  9 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 %
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 %
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 %
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2025 18:43:12 UTC
+ Last Updated on 06/05/2025 18:46:00 UTC
 <!--END_SECTION:waka-->
 
 
