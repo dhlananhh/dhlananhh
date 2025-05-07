@@ -97,8 +97,6 @@ Here are some ideas to get you started:
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 710 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 62 Public Repositories 
@@ -108,21 +106,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-🌆 Daytime                543 commits         ████████░░░░░░░░░░░░░░░░░   30.80 % 
-🌃 Evening                861 commits         ████████████░░░░░░░░░░░░░   48.84 % 
-🌙 Night                  135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+🌞 Morning                236 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+🌆 Daytime                581 commits         ████████░░░░░░░░░░░░░░░░░   31.22 % 
+🌃 Evening                901 commits         ████████████░░░░░░░░░░░░░   48.41 % 
+🌙 Night                  143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   280 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Tuesday                  176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Wednesday                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Thursday                 94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Friday                   307 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Saturday                 337 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-Sunday                   482 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+Monday                   305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Tuesday                  180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Wednesday                88 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Thursday                 95 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Friday                   317 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Saturday                 358 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Sunday                   518 commits         ███████░░░░░░░░░░░░░░░░░░   27.83 % 
 ```
 
 
@@ -169,7 +167,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2025 18:46:00 UTC
+ Last Updated on 07/05/2025 18:46:42 UTC
 <!--END_SECTION:waka-->
 
 
