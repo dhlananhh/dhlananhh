@@ -89,15 +89,13 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-318-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-326-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 713 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -169,7 +167,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2025 18:45:55 UTC
+ Last Updated on 10/05/2025 18:42:25 UTC
 <!--END_SECTION:waka-->
 
 
