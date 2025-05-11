@@ -91,13 +91,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-326-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-327-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 748 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -132,24 +130,24 @@ Sunday                   469 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               6 hrs 52 mins       ████████████░░░░░░░░░░░░░   46.34 % 
-JavaScript               3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-YAML                     2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+TypeScript               7 hrs 14 mins       █████████████░░░░░░░░░░░░   53.84 % 
+JavaScript               4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bookstore-frontend-nextjs5 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
-green_grocery            4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
-dhlananhh                2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-bookstore-backend-nodejs 1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-SoftwareArchitecture_Week15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+bookstore-frontend-nextjs5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.58 % 
+green_grocery            5 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.08 % 
+bookstore-backend-nodejs 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+dhlananhh                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+3D-Dev-Portfolio         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  14 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -169,7 +167,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2025 18:04:11 UTC
+ Last Updated on 11/05/2025 18:43:12 UTC
 <!--END_SECTION:waka-->
 
 
