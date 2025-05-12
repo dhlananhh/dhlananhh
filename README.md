@@ -73,15 +73,15 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/2) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
-2. 🎉 Merged PR [#3](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/3) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
-3. 🎉 Merged PR [#1](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/1) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
-4. 🎉 Merged PR [#3](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/3) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-5. 🎉 Merged PR [#1](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/1) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-6. 🎉 Merged PR [#2](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/2) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-7. 🎉 Merged PR [#4](https://github.com/dhlananhh/green_grocery/pull/4) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery/)
-8. 🎉 Merged PR [#5](https://github.com/dhlananhh/green_grocery/pull/5) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery/)
-9. 🎉 Merged PR [#6](https://github.com/dhlananhh/green_grocery/pull/6) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery/)
+1. 🎉 Merged PR [#5](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/5) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
+2. 🎉 Merged PR [#4](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/4) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
+3. 🎉 Merged PR [#8](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/8) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+4. 🎉 Merged PR [#6](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/6) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+5. 🎉 Merged PR [#7](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/7) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+6. 🎉 Merged PR [#5](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/5) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+7. 🎉 Merged PR [#4](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/4) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+8. 🎉 Merged PR [#21](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/21) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
+9. 💪 Opened PR [#21](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/21) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
 <!--END_SECTION:activity-->
 
 ---
