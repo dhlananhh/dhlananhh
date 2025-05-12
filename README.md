@@ -73,15 +73,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/2) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
-2. 🎉 Merged PR [#3](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/3) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
-3. 🎉 Merged PR [#1](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/1) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
-4. 🎉 Merged PR [#3](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/3) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-5. 🎉 Merged PR [#1](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/1) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-6. 🎉 Merged PR [#2](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/2) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-7. 🎉 Merged PR [#4](https://github.com/dhlananhh/green_grocery/pull/4) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery/)
-8. 🎉 Merged PR [#5](https://github.com/dhlananhh/green_grocery/pull/5) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery/)
-9. 🎉 Merged PR [#6](https://github.com/dhlananhh/green_grocery/pull/6) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery/)
+1. 💪 Opened PR [#31](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/31) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
+2. 💪 Opened PR [#17](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/17) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
+3. 💪 Opened PR [#27](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/27) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
+4. 💪 Opened PR [#20](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/20) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
+5. 💪 Opened PR [#21](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/21) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
 <!--END_SECTION:activity-->
 
 ---
@@ -93,71 +89,71 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-327-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+ >
 > 💼 Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 62 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-🌆 Daytime                567 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌃 Evening                932 commits         ████████████░░░░░░░░░░░░░   48.14 % 
-🌙 Night                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+🌞 Morning                264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 %
+🌆 Daytime                567 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 %
+🌃 Evening                932 commits         ████████████░░░░░░░░░░░░░   48.14 %
+🌙 Night                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 %
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Tuesday                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Wednesday                90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Thursday                 150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Friday                   384 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Saturday                 423 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Sunday                   469 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Monday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
+Tuesday                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Wednesday                90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Thursday                 150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Friday                   384 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+Saturday                 423 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 %
+Sunday                   469 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages: 
-TypeScript               7 hrs 14 mins       █████████████░░░░░░░░░░░░   53.84 % 
-JavaScript               4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.35 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+💬 Programming Languages:
+TypeScript               7 hrs 14 mins       █████████████░░░░░░░░░░░░   53.84 %
+JavaScript               4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.35 %
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 
-🔥 Editors: 
-VS Code                  13 hrs 27 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  13 hrs 27 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-bookstore-frontend-nextjs5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.58 % 
-green_grocery            5 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.08 % 
-bookstore-backend-nodejs 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-dhlananhh                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-3D-Dev-Portfolio         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+🐱‍💻 Projects:
+bookstore-frontend-nextjs5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.58 %
+green_grocery            5 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.08 %
+bookstore-backend-nodejs 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 %
+dhlananhh                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+3D-Dev-Portfolio         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 
-💻 Operating System: 
-Windows                  13 hrs 27 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  13 hrs 27 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 % 
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 %
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 %
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 %
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 
