@@ -89,9 +89,9 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-316-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-327-blue)
 
 **🐱 My GitHub Data** 
 
@@ -106,21 +106,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-🌆 Daytime                621 commits         ████████░░░░░░░░░░░░░░░░░   30.71 % 
-🌃 Evening                978 commits         ████████████░░░░░░░░░░░░░   48.37 % 
-🌙 Night                  153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+🌞 Morning                264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+🌆 Daytime                567 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+🌃 Evening                932 commits         ████████████░░░░░░░░░░░░░   48.14 % 
+🌙 Night                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   306 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Tuesday                  181 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Wednesday                89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Thursday                 123 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Friday                   362 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-Saturday                 409 commits         █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-Sunday                   552 commits         ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+Monday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Tuesday                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Wednesday                90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Thursday                 150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Friday                   384 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+Saturday                 423 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Sunday                   469 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
 ```
 
 
@@ -130,24 +130,24 @@ Sunday                   552 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     4 hrs 25 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
-JavaScript               2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Markdown                 1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Text                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+TypeScript               7 hrs 14 mins       █████████████░░░░░░░░░░░░   53.84 % 
+JavaScript               4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.35 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 27 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dhlananhh                5 hrs 35 mins       ██████████████░░░░░░░░░░░   57.16 % 
-green_grocery            3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.98 % 
-SoftwareArchitecture_Week15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-SoftwareArchitecture_Week4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-bookstore-backend-nodejs 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+bookstore-frontend-nextjs5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.58 % 
+green_grocery            5 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.08 % 
+bookstore-backend-nodejs 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+dhlananhh                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+3D-Dev-Portfolio         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  9 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -167,7 +167,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 18:47:20 UTC
+ Last Updated on 11/05/2025 18:43:12 UTC
 <!--END_SECTION:waka-->
 
 
