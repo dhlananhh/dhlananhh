@@ -73,23 +73,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-<<<<<<< HEAD
 1. 💪 Opened PR [#31](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/31) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
 2. 💪 Opened PR [#17](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/17) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
 3. 💪 Opened PR [#27](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/27) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
 4. 💪 Opened PR [#20](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/20) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
 5. 💪 Opened PR [#21](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/21) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
-=======
-1. 🎉 Merged PR [#5](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/5) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
-2. 🎉 Merged PR [#4](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/4) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
-3. 🎉 Merged PR [#8](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/8) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-4. 🎉 Merged PR [#6](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/6) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-5. 🎉 Merged PR [#7](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/7) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-6. 🎉 Merged PR [#5](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/5) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-7. 🎉 Merged PR [#4](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/4) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
-8. 🎉 Merged PR [#21](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/21) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
-9. 💪 Opened PR [#21](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/21) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
->>>>>>> 210887ccf8b1171b7f351c8cfb5bc314e2147c3e
 <!--END_SECTION:activity-->
 
 ---
