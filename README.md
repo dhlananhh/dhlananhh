@@ -85,75 +85,77 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-327-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-345-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage
- >
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 770 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
- >
-> 📜 62 Public Repositories
- >
-> 🔑 0 Private Repositories
- >
-**I'm a Night 🦉**
+ > 
+> 📜 62 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 %
-🌆 Daytime                567 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 %
-🌃 Evening                932 commits         ████████████░░░░░░░░░░░░░   48.14 %
-🌙 Night                  173 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+🌞 Morning                253 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+🌆 Daytime                539 commits         ████████░░░░░░░░░░░░░░░░░   31.86 % 
+🌃 Evening                720 commits         ███████████░░░░░░░░░░░░░░   42.55 % 
+🌙 Night                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 ```
-📅 **I'm Most Productive on Sunday**
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-Tuesday                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Wednesday                90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-Thursday                 150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-Friday                   384 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 %
-Saturday                 423 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 %
-Sunday                   469 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Monday                   332 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Tuesday                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Wednesday                89 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Thursday                 96 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Friday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Saturday                 329 commits         █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Sunday                   469 commits         ███████░░░░░░░░░░░░░░░░░░   27.72 % 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages:
-TypeScript               7 hrs 14 mins       █████████████░░░░░░░░░░░░   53.84 %
-JavaScript               4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.35 %
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+💬 Programming Languages: 
+TypeScript               13 hrs              ████████████████░░░░░░░░░   65.80 % 
+JavaScript               4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
-🔥 Editors:
-VS Code                  13 hrs 27 mins      █████████████████████████   100.00 %
+🔥 Editors: 
+VS Code                  19 hrs 45 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects:
-bookstore-frontend-nextjs5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.58 %
-green_grocery            5 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.08 %
-bookstore-backend-nodejs 1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 %
-dhlananhh                57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-3D-Dev-Portfolio         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+🐱‍💻 Projects: 
+bookstore-frontend-nextjs10 hrs 22 mins      █████████████░░░░░░░░░░░░   52.45 % 
+green_grocery            5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+bookstore-backend-nodejs 2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+dhlananhh                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+SoftwareArchitecture_Week7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
-💻 Operating System:
-Windows                  13 hrs 27 mins      █████████████████████████   100.00 %
+💻 Operating System: 
+Windows                  19 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 %
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 %
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 %
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.73 % 
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
@@ -163,7 +165,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2025 18:43:12 UTC
+ Last Updated on 12/05/2025 17:59:10 UTC
 <!--END_SECTION:waka-->
 
 
