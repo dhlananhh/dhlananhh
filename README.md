@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#31](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/31) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
-2. 💪 Opened PR [#17](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/17) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
-3. 💪 Opened PR [#27](https://github.com//minhlq2003/bookstore-frontend-nextjs/pull/27) in [minhlq2003/bookstore-frontend-nextjs](https://github.com//minhlq2003/bookstore-frontend-nextjs)
-4. 💪 Opened PR [#20](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/20) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
-5. 💪 Opened PR [#21](https://github.com//HieuTrungMc/bookstore-backend-nodejs/pull/21) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com//HieuTrungMc/bookstore-backend-nodejs)
+1. 🎉 Merged PR [#22](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/22) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
+2. 💪 Opened PR [#22](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/22) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
+3. 🎉 Merged PR [#5](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/5) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
+4. 🎉 Merged PR [#4](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/4) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
+5. 🎉 Merged PR [#8](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/8) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
 <!--END_SECTION:activity-->
 
 ---
