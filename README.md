@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/dhlananhh/green_grocery/pull/14) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery)
-2. 🎉 Merged PR [#13](https://github.com/dhlananhh/green_grocery/pull/13) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery)
-3. 🎉 Merged PR [#22](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/22) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
-4. 💪 Opened PR [#22](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/22) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
-5. 🎉 Merged PR [#5](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/5) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
+1. 💪 Opened PR [#29](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/29) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
+2. 💪 Opened PR [#27](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/27) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
+3. 🎉 Merged PR [#14](https://github.com/dhlananhh/green_grocery/pull/14) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery)
+4. 🎉 Merged PR [#13](https://github.com/dhlananhh/green_grocery/pull/13) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery)
+5. 🎉 Merged PR [#22](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/22) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
 <!--END_SECTION:activity-->
 
 ---
