@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#29](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/29) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
-2. 💪 Opened PR [#27](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/27) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
-3. 🎉 Merged PR [#14](https://github.com/dhlananhh/green_grocery/pull/14) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery)
-4. 🎉 Merged PR [#13](https://github.com/dhlananhh/green_grocery/pull/13) in [dhlananhh/green_grocery](https://github.com/dhlananhh/green_grocery)
-5. 🎉 Merged PR [#22](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/22) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
+1. 🗣 Commented on [#30](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/30#issuecomment-2880785982) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
+2. 🔒 Closed issue [#3372](https://github.com/Puliczek/github-achievements-academy/issues/3372) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+3. ❗ Opened issue [#3372](https://github.com/Puliczek/github-achievements-academy/issues/3372) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+4. 🔒 Closed issue [#3371](https://github.com/Puliczek/github-achievements-academy/issues/3371) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+5. ❗ Opened issue [#3371](https://github.com/Puliczek/github-achievements-academy/issues/3371) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
 <!--END_SECTION:activity-->
 
 ---
