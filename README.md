@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#30](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/30#issuecomment-2880785982) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
-2. 🔒 Closed issue [#3372](https://github.com/Puliczek/github-achievements-academy/issues/3372) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-3. ❗ Opened issue [#3372](https://github.com/Puliczek/github-achievements-academy/issues/3372) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-4. 🔒 Closed issue [#3371](https://github.com/Puliczek/github-achievements-academy/issues/3371) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-5. ❗ Opened issue [#3371](https://github.com/Puliczek/github-achievements-academy/issues/3371) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+1. ❗ Opened issue [#3411](https://github.com/Puliczek/github-achievements-academy/issues/3411) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+2. ❗ Opened issue [#3410](https://github.com/Puliczek/github-achievements-academy/issues/3410) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+3. ❗ Opened issue [#3409](https://github.com/Puliczek/github-achievements-academy/issues/3409) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+4. ❗ Opened issue [#3408](https://github.com/Puliczek/github-achievements-academy/issues/3408) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+5. 🗣 Commented on [#30](https://github.com/HieuTrungMc/bookstore-backend-nodejs/pull/30#issuecomment-2880785982) in [HieuTrungMc/bookstore-backend-nodejs](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
 <!--END_SECTION:activity-->
 
 ---
