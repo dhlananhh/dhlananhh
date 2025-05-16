@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-360-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-287-blue)
 
 **🐱 My GitHub Data** 
 
@@ -102,21 +102,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                354 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-🌆 Daytime                760 commits         ████████░░░░░░░░░░░░░░░░░   32.67 % 
-🌃 Evening                936 commits         ██████████░░░░░░░░░░░░░░░   40.24 % 
-🌙 Night                  276 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+🌞 Morning                341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌆 Daytime                768 commits         ████████░░░░░░░░░░░░░░░░░   32.69 % 
+🌃 Evening                970 commits         ██████████░░░░░░░░░░░░░░░   41.29 % 
+🌙 Night                  270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   420 commits         █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Tuesday                  294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Wednesday                102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Thursday                 176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Friday                   287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Saturday                 471 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Sunday                   576 commits         ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Monday                   402 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Tuesday                  296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Wednesday                117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+Thursday                 182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Friday                   352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Saturday                 463 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Sunday                   537 commits         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
 ```
 
 
@@ -126,24 +126,24 @@ Sunday                   576 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               20 hrs 20 mins      ███████████████████░░░░░░   76.09 % 
-JavaScript               4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+TypeScript               19 hrs 17 mins      ██████████████████░░░░░░░   71.01 % 
+JavaScript               4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Markdown                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Python                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bookstore-frontend-nextjs16 hrs 13 mins      ███████████████░░░░░░░░░░   60.65 % 
-green_grocery            5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-bookstore-backend-nodejs 4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-dhlananhh                35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-SoftwareArchitecture_Week7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+bookstore-frontend-nextjs15 hrs 28 mins      ██████████████░░░░░░░░░░░   56.97 % 
+green_grocery            5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+bookstore-backend-nodejs 4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+bookstore_chatbot        1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+dhlananhh                31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 💻 Operating System: 
-Windows                  26 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -163,7 +163,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2025 18:47:59 UTC
+ Last Updated on 16/05/2025 18:46:16 UTC
 <!--END_SECTION:waka-->
 
 
