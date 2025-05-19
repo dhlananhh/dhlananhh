@@ -73,11 +73,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3440](https://github.com/Puliczek/github-achievements-academy/issues/3440) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-2. 🔒 Closed issue [#3439](https://github.com/Puliczek/github-achievements-academy/issues/3439) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-3. 🔒 Closed issue [#3438](https://github.com/Puliczek/github-achievements-academy/issues/3438) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-4. 🔒 Closed issue [#3437](https://github.com/Puliczek/github-achievements-academy/issues/3437) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-5. ❗ Opened issue [#3440](https://github.com/Puliczek/github-achievements-academy/issues/3440) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+1. 💪 Opened PR [#72](https://github.com/minhlq2003/bookstore-frontend-nextjs/pull/72) in [minhlq2003/bookstore-frontend-nextjs](https://github.com/minhlq2003/bookstore-frontend-nextjs)
+2. 🔒 Closed issue [#3440](https://github.com/Puliczek/github-achievements-academy/issues/3440) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+3. 🔒 Closed issue [#3439](https://github.com/Puliczek/github-achievements-academy/issues/3439) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+4. 🔒 Closed issue [#3438](https://github.com/Puliczek/github-achievements-academy/issues/3438) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+5. 🔒 Closed issue [#3437](https://github.com/Puliczek/github-achievements-academy/issues/3437) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
 <!--END_SECTION:activity-->
 
 ---
