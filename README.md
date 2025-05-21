@@ -85,77 +85,28 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage
- >
-> 🏆 969 Contributions in the Year 2025
- >
+> 📦 ? Used in GitHub's Storage 
+ > 
 > 💼 Opted to Hire
- >
-> 📜 63 Public Repositories
- >
-> 🔑 0 Private Repositories
- >
-**I'm an Early 🐤**
+ > 
+> 📜 63 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in JavaScript** 
 
 ```text
-🌞 Morning                564 commits         █████░░░░░░░░░░░░░░░░░░░░   18.58 %
-🌆 Daytime                1069 commits        █████████░░░░░░░░░░░░░░░░   35.21 %
-🌃 Evening                1100 commits        █████████░░░░░░░░░░░░░░░░   36.23 %
-🌙 Night                  303 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-```
-📅 **I'm Most Productive on Sunday**
-
-```text
-Monday                   517 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 %
-Tuesday                  305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Wednesday                123 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Thursday                 184 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Friday                   370 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Saturday                 670 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 %
-Sunday                   867 commits         ███████░░░░░░░░░░░░░░░░░░   28.56 %
-```
-
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages:
-TypeScript               10 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   38.18 %
-JavaScript               7 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 %
-Python                   2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-
-🔥 Editors:
-VS Code                  27 hrs 8 mins       █████████████████████████   100.00 %
-
-🐱‍💻 Projects:
-bookstore-frontend-nextjs9 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.99 %
-green_grocery            7 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.04 %
-bookstore_chatbot        7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 %
-bookstore-backend-nodejs 1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-CV                       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-
-💻 Operating System:
-Windows                  27 hrs 8 mins       █████████████████████████   100.00 %
-```
-
-**I Mostly Code in JavaScript**
-
-```text
-JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.14 %
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 %
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
@@ -165,7 +116,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 20/05/2025 18:48:44 UTC
+ Last Updated on 21/05/2025 18:47:29 UTC
 <!--END_SECTION:waka-->
 
 
