@@ -102,21 +102,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                679 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-🌆 Daytime                1241 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
-🌃 Evening                1203 commits        █████████░░░░░░░░░░░░░░░░   34.68 % 
-🌙 Night                  346 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+🌞 Morning                679 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+🌆 Daytime                1245 commits        █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌃 Evening                1203 commits        █████████░░░░░░░░░░░░░░░░   34.64 % 
+🌙 Night                  346 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   595 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Tuesday                  335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Wednesday                137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Thursday                 187 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Friday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Saturday                 772 commits         ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Sunday                   1038 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Monday                   595 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Tuesday                  335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Wednesday                137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Thursday                 187 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Friday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Saturday                 776 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Sunday                   1038 commits        ███████░░░░░░░░░░░░░░░░░░   29.89 % 
 ```
 
 
@@ -126,24 +126,24 @@ Sunday                   1038 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               6 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.43 % 
-Python                   3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-TypeScript               2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Other                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               6 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
+Python                   3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+TypeScript               3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  20 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bookstore_chatbot        8 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.74 % 
-green_grocery            7 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   35.01 % 
-bookstore-frontend-nextjs3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-CV                       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-bookstore-backend-nodejs 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+bookstore_chatbot        8 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
+green_grocery            7 hrs               ████████░░░░░░░░░░░░░░░░░   33.80 % 
+bookstore-frontend-nextjs4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+CV                       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+bookstore-backend-nodejs 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 💻 Operating System: 
-Windows                  21 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  20 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -163,7 +163,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 23/05/2025 18:46:58 UTC
+ Last Updated on 24/05/2025 18:43:58 UTC
 <!--END_SECTION:waka-->
 
 
