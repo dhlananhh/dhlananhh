@@ -85,9 +85,9 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 **🐱 My GitHub Data** 
 
@@ -103,20 +103,20 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                679 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-🌆 Daytime                1245 commits        █████████░░░░░░░░░░░░░░░░   35.85 % 
-🌃 Evening                1203 commits        █████████░░░░░░░░░░░░░░░░   34.64 % 
+🌆 Daytime                1245 commits        █████████░░░░░░░░░░░░░░░░   35.84 % 
+🌃 Evening                1204 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
 🌙 Night                  346 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   595 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Tuesday                  335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Tuesday                  335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 Wednesday                137 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 Thursday                 187 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 Friday                   405 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 Saturday                 776 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Sunday                   1038 commits        ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+Sunday                   1039 commits        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
 ```
 
 
@@ -126,24 +126,24 @@ Sunday                   1038 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               6 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
-Python                   3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-TypeScript               3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Python                   3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+JavaScript               3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+TypeScript               3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 44 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bookstore_chatbot        8 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
-green_grocery            7 hrs               ████████░░░░░░░░░░░░░░░░░   33.80 % 
-bookstore-frontend-nextjs4 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-CV                       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-bookstore-backend-nodejs 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+bookstore_chatbot        8 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.37 % 
+bookstore-frontend-nextjs4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+green_grocery            3 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+CV                       18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+bookstore-backend-nodejs 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 💻 Operating System: 
-Windows                  20 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -163,7 +163,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2025 18:43:58 UTC
+ Last Updated on 25/05/2025 18:43:50 UTC
 <!--END_SECTION:waka-->
 
 
