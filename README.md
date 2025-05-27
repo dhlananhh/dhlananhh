@@ -93,116 +93,84 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-<<<<<<< HEAD
-
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2023%20mins-blue)
-=======
 ![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2017%20mins-blue)
->>>>>>> f57f8c83d4982bfe1841f6ba5a24f4e44ab1fce3
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-<<<<<<< HEAD
 > 📦 ? Used in GitHub's Storage
->
-> 🏆 969 Contributions in the Year 2025
->
+ >
 > 💼 Opted to Hire
->
+ >
 > 📜 63 Public Repositories
->
+ >
 > 🔑 0 Private Repositories
-
+ >
 **I'm an Early 🐤**
-=======
-> 📦 ? Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 63 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
->>>>>>> f57f8c83d4982bfe1841f6ba5a24f4e44ab1fce3
 
 ```text
-🌞 Morning                758 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-🌆 Daytime                1374 commits        █████████░░░░░░░░░░░░░░░░   36.55 % 
-🌃 Evening                1266 commits        ████████░░░░░░░░░░░░░░░░░   33.68 % 
-🌙 Night                  361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+🌞 Morning                758 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+🌆 Daytime                1374 commits        █████████░░░░░░░░░░░░░░░░   36.55 %
+🌃 Evening                1266 commits        ████████░░░░░░░░░░░░░░░░░   33.68 %
+🌙 Night                  361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 %
 ```
-<<<<<<< HEAD
-
 📅 **I'm Most Productive on Sunday**
-=======
-📅 **I'm Most Productive on Sunday** 
->>>>>>> f57f8c83d4982bfe1841f6ba5a24f4e44ab1fce3
 
 ```text
-Monday                   658 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-Tuesday                  338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Wednesday                138 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Thursday                 214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Friday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Saturday                 859 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Sunday                   1139 commits        ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Monday                   658 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 %
+Tuesday                  338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Wednesday                138 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Thursday                 214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Friday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Saturday                 859 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 %
+Sunday                   1139 commits        ████████░░░░░░░░░░░░░░░░░   30.30 %
 ```
 
-<<<<<<< HEAD
-📊 **This Week I Spent My Time On**
-=======
 
-📊 **This Week I Spent My Time On** 
->>>>>>> f57f8c83d4982bfe1841f6ba5a24f4e44ab1fce3
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages: 
-Python                   3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-TypeScript               3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-YAML                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Docker                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+💬 Programming Languages:
+Python                   3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 %
+TypeScript               3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 %
+YAML                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Docker                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
 
-🔥 Editors: 
-VS Code                  13 hrs 56 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  13 hrs 56 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-bookstore_chatbot        8 hrs 23 mins       ███████████████░░░░░░░░░░   60.20 % 
-bookstore-frontend-nextjs4 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.11 % 
-Random Things            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-bookstore-backend-nodejs 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-CV                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+🐱‍💻 Projects:
+bookstore_chatbot        8 hrs 23 mins       ███████████████░░░░░░░░░░   60.20 %
+bookstore-frontend-nextjs4 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.11 %
+Random Things            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+bookstore-backend-nodejs 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+CV                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 
-💻 Operating System: 
-Windows                  13 hrs 56 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  13 hrs 56 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.14 %
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 %
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
-<<<<<<< HEAD
- Last Updated on 20/05/2025 18:48:44 UTC
-=======
 
  Last Updated on 26/05/2025 18:45:47 UTC
 <!--END_SECTION:waka-->
->>>>>>> f57f8c83d4982bfe1841f6ba5a24f4e44ab1fce3
 
 <!--END_SECTION:waka-->
 
