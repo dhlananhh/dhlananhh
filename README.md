@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 </div>
 
 <!-- Introduction -->
+
 <div align="justify">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
@@ -69,7 +70,13 @@ Here are some ideas to get you started:
 
 ---
 
-# :zap: Recent Activities
+# 🤝🏻 My Contribution Stats
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dhlananhh)](https://github.com/LordDashMe/github-contribution-stats/)
+
+---
+
+# ⚡️ Recent Activities
 
 <!--START_SECTION:activity-->
 
@@ -78,6 +85,7 @@ Here are some ideas to get you started:
 3. 🔒 Closed issue [#3439](https://github.com/Puliczek/github-achievements-academy/issues/3439) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
 4. 🔒 Closed issue [#3438](https://github.com/Puliczek/github-achievements-academy/issues/3438) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
 5. 🔒 Closed issue [#3437](https://github.com/Puliczek/github-achievements-academy/issues/3437) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+
 <!--END_SECTION:activity-->
 
 ---
@@ -85,6 +93,7 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
@@ -92,15 +101,15 @@ Here are some ideas to get you started:
 **🐱 My GitHub Data**
 
 > 📦 ? Used in GitHub's Storage
- >
+>
 > 🏆 969 Contributions in the Year 2025
- >
+>
 > 💼 Opted to Hire
- >
+>
 > 📜 63 Public Repositories
- >
+>
 > 🔑 0 Private Repositories
- >
+
 **I'm an Early 🐤**
 
 ```text
@@ -109,6 +118,7 @@ Here are some ideas to get you started:
 🌃 Evening                1100 commits        █████████░░░░░░░░░░░░░░░░   36.23 %
 🌙 Night                  303 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 %
 ```
+
 📅 **I'm Most Productive on Sunday**
 
 ```text
@@ -120,7 +130,6 @@ Friday                   370 commits         ███░░░░░░░░�
 Saturday                 670 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 %
 Sunday                   867 commits         ███████░░░░░░░░░░░░░░░░░░   28.56 %
 ```
-
 
 📊 **This Week I Spent My Time On**
 
@@ -158,16 +167,13 @@ EJS                      3 repos             █░░░░░░░░░░�
 PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
-
-
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
-
  Last Updated on 20/05/2025 18:48:44 UTC
-<!--END_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 **Languages over All time**
 
@@ -218,6 +224,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <!-- GOODREADS-LIST:START -->
 
 <!-- GOODREADS-LIST:END -->
+
 </details>
 
 ---
@@ -344,7 +351,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhlananhh&theme=dracula&hide_border=true" alt="contribution graph" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhlananhh/dhlananhh/output/github-contribution-grid-snake-light.svg" />
 
-<br/><br/><br/>
+`<br/><br/>``<br/>`
 
 </div>
 
