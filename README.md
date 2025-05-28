@@ -80,11 +80,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#3584](https://github.com/Puliczek/github-achievements-academy/issues/3584) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-2. 🔒 Closed issue [#3584](https://github.com/Puliczek/github-achievements-academy/issues/3584) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-3. 🔒 Closed issue [#3583](https://github.com/Puliczek/github-achievements-academy/issues/3583) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-4. 🔒 Closed issue [#3582](https://github.com/Puliczek/github-achievements-academy/issues/3582) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-5. 🔒 Closed issue [#3581](https://github.com/Puliczek/github-achievements-academy/issues/3581) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+1. 🎉 Merged PR [#2](https://github.com/dhlananhh/quickcart/pull/2) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
+2. 💪 Opened PR [#2](https://github.com/dhlananhh/quickcart/pull/2) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
+3. 🎉 Merged PR [#9](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/9) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
+4. 🎉 Merged PR [#7](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/7) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
+5. 🎉 Merged PR [#6](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/6) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
 
 <!--END_SECTION:activity-->
 
