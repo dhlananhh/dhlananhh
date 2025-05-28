@@ -80,11 +80,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#72](https://github.com/minhlq2003/bookstore-frontend-nextjs/pull/72) in [minhlq2003/bookstore-frontend-nextjs](https://github.com/minhlq2003/bookstore-frontend-nextjs)
-2. 🔒 Closed issue [#3440](https://github.com/Puliczek/github-achievements-academy/issues/3440) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-3. 🔒 Closed issue [#3439](https://github.com/Puliczek/github-achievements-academy/issues/3439) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-4. 🔒 Closed issue [#3438](https://github.com/Puliczek/github-achievements-academy/issues/3438) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-5. 🔒 Closed issue [#3437](https://github.com/Puliczek/github-achievements-academy/issues/3437) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+1. ❗ Opened issue [#3584](https://github.com/Puliczek/github-achievements-academy/issues/3584) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+2. 🔒 Closed issue [#3584](https://github.com/Puliczek/github-achievements-academy/issues/3584) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+3. 🔒 Closed issue [#3583](https://github.com/Puliczek/github-achievements-academy/issues/3583) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+4. 🔒 Closed issue [#3582](https://github.com/Puliczek/github-achievements-academy/issues/3582) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+5. 🔒 Closed issue [#3581](https://github.com/Puliczek/github-achievements-academy/issues/3581) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
 
 <!--END_SECTION:activity-->
 
@@ -93,85 +93,85 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage
- >
+> 📦 ? Used in GitHub's Storage 
+ > 
 > 💼 Opted to Hire
- >
-> 📜 63 Public Repositories
- >
-> 🔑 0 Private Repositories
- >
-**I'm an Early 🐤**
+ > 
+> 📜 64 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                758 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 %
-🌆 Daytime                1374 commits        █████████░░░░░░░░░░░░░░░░   36.55 %
-🌃 Evening                1266 commits        ████████░░░░░░░░░░░░░░░░░   33.68 %
-🌙 Night                  361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+🌞 Morning                758 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+🌆 Daytime                1472 commits        ██████████░░░░░░░░░░░░░░░   38.16 % 
+🌃 Evening                1266 commits        ████████░░░░░░░░░░░░░░░░░   32.82 % 
+🌙 Night                  361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 ```
-📅 **I'm Most Productive on Sunday**
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   658 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 %
-Tuesday                  338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Wednesday                138 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Thursday                 214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-Friday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Saturday                 859 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 %
-Sunday                   1139 commits        ████████░░░░░░░░░░░░░░░░░   30.30 %
+Monday                   694 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Tuesday                  400 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Wednesday                138 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Thursday                 214 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Friday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Saturday                 859 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+Sunday                   1139 commits        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages:
-Python                   3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 %
-TypeScript               3 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.02 %
-YAML                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
-Other                    1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-Docker                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
+💬 Programming Languages: 
+JavaScript               2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+Python                   1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Text                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
-🔥 Editors:
-VS Code                  13 hrs 56 mins      █████████████████████████   100.00 %
+🔥 Editors: 
+VS Code                  7 hrs 46 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects:
-bookstore_chatbot        8 hrs 23 mins       ███████████████░░░░░░░░░░   60.20 %
-bookstore-frontend-nextjs4 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.11 %
-Random Things            19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-bookstore-backend-nodejs 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-CV                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+🐱‍💻 Projects: 
+bookstore_chatbot        2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   37.64 % 
+green_grocery            2 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+bookstore-frontend-nextjs1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+Random Things            41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+chathub-app              28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
-💻 Operating System:
-Windows                  13 hrs 56 mins      █████████████████████████   100.00 %
+💻 Operating System: 
+Windows                  7 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ████████░░░░░░░░░░░░░░░░░   32.14 %
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 %
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 %
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+JavaScript               19 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2025 18:45:47 UTC
-<!--END_SECTION:waka-->
-
+ Last Updated on 27/05/2025 18:48:28 UTC
 <!--END_SECTION:waka-->
 
 **Languages over All time**
