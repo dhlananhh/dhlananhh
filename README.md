@@ -80,11 +80,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/dhlananhh/quickcart/pull/2) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
-2. 💪 Opened PR [#2](https://github.com/dhlananhh/quickcart/pull/2) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
-3. 🎉 Merged PR [#9](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/9) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
-4. 🎉 Merged PR [#7](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/7) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
-5. 🎉 Merged PR [#6](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/6) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
+1. 🎉 Merged PR [#3](https://github.com/dhlananhh/quickcart/pull/3) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
+2. 💪 Opened PR [#3](https://github.com/dhlananhh/quickcart/pull/3) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
+3. 🎉 Merged PR [#2](https://github.com/dhlananhh/quickcart/pull/2) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
+4. 💪 Opened PR [#2](https://github.com/dhlananhh/quickcart/pull/2) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
+5. 🎉 Merged PR [#9](https://github.com/dhlananhh/SoftwareArchitecture_Week08/pull/9) in [dhlananhh/SoftwareArchitecture_Week08](https://github.com/dhlananhh/SoftwareArchitecture_Week08)
 
 <!--END_SECTION:activity-->
 
