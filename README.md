@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -136,24 +136,24 @@ Sunday                   1173 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               5 hrs 1 min         █████████████░░░░░░░░░░░░   50.45 % 
-JSON                     1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Text                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-TypeScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+JavaScript               5 hrs 1 min         █████████████░░░░░░░░░░░░   50.21 % 
+JSON                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Text                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-QuickCart                4 hrs 12 mins       ███████████░░░░░░░░░░░░░░   42.35 % 
-green_grocery            2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Random Things            1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-SoftwareArchitecture_Week43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-bookstore-frontend-nextjs39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+QuickCart                4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.15 % 
+green_grocery            2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Random Things            1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+SoftwareArchitecture_Week43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+chathub-web              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-Windows                  9 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -173,7 +173,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 30/05/2025 18:47:49 UTC
+ Last Updated on 31/05/2025 18:45:15 UTC
 <!--END_SECTION:waka-->
 
 **Languages over All time**
