@@ -97,71 +97,71 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+ >
 > 💼 Opted to Hire
- > 
-> 📜 64 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ >
+> 📜 64 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                806 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-🌆 Daytime                1671 commits        ██████████░░░░░░░░░░░░░░░   39.75 % 
-🌃 Evening                1359 commits        ████████░░░░░░░░░░░░░░░░░   32.33 % 
-🌙 Night                  368 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+🌞 Morning                806 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 %
+🌆 Daytime                1671 commits        ██████████░░░░░░░░░░░░░░░   39.75 %
+🌃 Evening                1359 commits        ████████░░░░░░░░░░░░░░░░░   32.33 %
+🌙 Night                  368 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 %
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   757 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Tuesday                  401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Wednesday                267 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Thursday                 241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Friday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Saturday                 910 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Sunday                   1173 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+Monday                   757 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 %
+Tuesday                  401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Wednesday                267 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Thursday                 241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+Friday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 %
+Saturday                 910 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 %
+Sunday                   1173 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages: 
-JavaScript               5 hrs 1 min         █████████████░░░░░░░░░░░░   51.17 % 
-JSON                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Text                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+💬 Programming Languages:
+JavaScript               5 hrs 1 min         █████████████░░░░░░░░░░░░   51.17 %
+JSON                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+Text                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
 
-🔥 Editors: 
-VS Code                  9 hrs 49 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  9 hrs 49 mins       █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-QuickCart                4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.96 % 
-green_grocery            2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
-Random Things            1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-SoftwareArchitecture_Week43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-chathub-web              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+🐱‍💻 Projects:
+QuickCart                4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.96 %
+green_grocery            2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04 %
+Random Things            1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+SoftwareArchitecture_Week43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+chathub-web              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 
-💻 Operating System: 
-Windows                  9 hrs 49 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  9 hrs 49 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               19 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+JavaScript               19 repos            ████████░░░░░░░░░░░░░░░░░   33.33 %
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 %
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 %
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 
@@ -365,7 +365,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <!-- Portfolio -->
-  <a href="https://dhlananhh.github.io/" target="_blank">
+  <a href="https://my-3d-portfolio-wine.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a>
   <!-- Github -->
