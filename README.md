@@ -80,11 +80,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/dhlananhh/my-3d-portfolio/pull/1) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
-2. 💪 Opened PR [#1](https://github.com/dhlananhh/my-3d-portfolio/pull/1) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
-3. 🎉 Merged PR [#3](https://github.com/dhlananhh/quickcart/pull/3) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
-4. 💪 Opened PR [#3](https://github.com/dhlananhh/quickcart/pull/3) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
-5. 🎉 Merged PR [#2](https://github.com/dhlananhh/quickcart/pull/2) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
+1. 🎉 Merged PR [#3](https://github.com/dhlananhh/my-3d-portfolio/pull/3) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
+2. 💪 Opened PR [#3](https://github.com/dhlananhh/my-3d-portfolio/pull/3) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
+3. 🎉 Merged PR [#2](https://github.com/dhlananhh/my-3d-portfolio/pull/2) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
+4. 💪 Opened PR [#2](https://github.com/dhlananhh/my-3d-portfolio/pull/2) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
+5. 🎉 Merged PR [#1](https://github.com/dhlananhh/my-3d-portfolio/pull/1) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
 
 <!--END_SECTION:activity-->
 
