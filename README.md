@@ -93,75 +93,75 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-103%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage
- >
+> 📦 ? Used in GitHub's Storage 
+ > 
 > 💼 Opted to Hire
- >
-> 📜 64 Public Repositories
- >
-> 🔑 0 Private Repositories
- >
-**I'm an Early 🐤**
+ > 
+> 📜 66 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                806 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 %
-🌆 Daytime                1671 commits        ██████████░░░░░░░░░░░░░░░   39.75 %
-🌃 Evening                1359 commits        ████████░░░░░░░░░░░░░░░░░   32.33 %
-🌙 Night                  368 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+🌞 Morning                930 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+🌆 Daytime                1886 commits        ██████████░░░░░░░░░░░░░░░   40.23 % 
+🌃 Evening                1489 commits        ████████░░░░░░░░░░░░░░░░░   31.76 % 
+🌙 Night                  383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 ```
-📅 **I'm Most Productive on Sunday**
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   757 commits         █████░░░░░░░░░░░░░░░░░░░░   18.01 %
-Tuesday                  401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Wednesday                267 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
-Thursday                 241 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-Friday                   455 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-Saturday                 910 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 %
-Sunday                   1173 commits        ███████░░░░░░░░░░░░░░░░░░   27.90 %
+Monday                   838 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Tuesday                  472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Wednesday                338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Thursday                 311 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Friday                   463 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Saturday                 993 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Sunday                   1273 commits        ███████░░░░░░░░░░░░░░░░░░   27.15 % 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages:
-JavaScript               5 hrs 1 min         █████████████░░░░░░░░░░░░   51.17 %
-JSON                     1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Text                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+💬 Programming Languages: 
+TypeScript               7 hrs 46 mins       ████████████████████░░░░░   78.61 % 
+JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
-🔥 Editors:
-VS Code                  9 hrs 49 mins       █████████████████████████   100.00 %
+🔥 Editors: 
+VS Code                  9 hrs 53 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects:
-QuickCart                4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.96 %
-green_grocery            2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.04 %
-Random Things            1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.38 %
-SoftwareArchitecture_Week43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-chathub-web              30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+🐱‍💻 Projects: 
+my-3d-portfolio          8 hrs 47 mins       ██████████████████████░░░   88.91 % 
+chathub-web              42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+RemoveCommentsFromTypeScr10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+ConvertImagesToVisioDrawi7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+bookstore-frontend-nextjs3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
-💻 Operating System:
-Windows                  9 hrs 49 mins       █████████████████████████   100.00 %
+💻 Operating System: 
+Windows                  9 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ████████░░░░░░░░░░░░░░░░░   33.33 %
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.04 %
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+JavaScript               19 repos            ████████░░░░░░░░░░░░░░░░░   32.76 % 
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 
 
@@ -171,7 +171,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 01/06/2025 18:45:03 UTC
+ Last Updated on 05/06/2025 18:55:33 UTC
 <!--END_SECTION:waka-->
 
 **Languages over All time**
