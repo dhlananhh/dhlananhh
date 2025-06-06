@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -134,24 +134,26 @@ Sunday                   1273 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               7 hrs 46 mins       ████████████████████░░░░░   78.61 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Text                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+TypeScript               8 hrs 41 mins       ██████████████████░░░░░░░   72.59 % 
+JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 51 mins      █████████████████████████   99.00 % 
+Sublime Text             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Chrome                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-my-3d-portfolio          8 hrs 47 mins       ██████████████████████░░░   88.91 % 
-chathub-web              42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-RemoveCommentsFromTypeScr10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-ConvertImagesToVisioDrawi7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-bookstore-frontend-nextjs3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+my-3d-portfolio          9 hrs 43 mins       ████████████████████░░░░░   81.13 % 
+QuickCart                1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+chathub-web              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+RemoveCommentsFromTypeScr10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+ConvertImagesToVisioDrawi7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 💻 Operating System: 
-Windows                  9 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -171,7 +173,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2025 18:55:33 UTC
+ Last Updated on 06/06/2025 18:48:04 UTC
 <!--END_SECTION:waka-->
 
 **Languages over All time**
