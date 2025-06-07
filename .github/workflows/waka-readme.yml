@@ -1,7 +1,7 @@
 name: Waka Readme
 on:
   schedule:
-    - cron: '30 18 * * *'
+    - cron: "30 18 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
@@ -23,6 +23,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
+          SHOW_PROJECTS: "False"
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
