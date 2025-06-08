@@ -93,13 +93,15 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%2045%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,311 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -110,21 +112,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                986 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-🌆 Daytime                1899 commits        ██████████░░░░░░░░░░░░░░░   39.80 % 
-🌃 Evening                1501 commits        ████████░░░░░░░░░░░░░░░░░   31.46 % 
-🌙 Night                  385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+🌞 Morning                1054 commits        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+🌆 Daytime                1911 commits        ██████████░░░░░░░░░░░░░░░   39.10 % 
+🌃 Evening                1523 commits        ████████░░░░░░░░░░░░░░░░░   31.16 % 
+🌙 Night                  399 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   838 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Tuesday                  472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Wednesday                338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-Thursday                 357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Friday                   497 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Saturday                 994 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Sunday                   1275 commits        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+Monday                   852 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
+Tuesday                  472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Wednesday                338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Thursday                 357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Friday                   525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Saturday                 1044 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Sunday                   1299 commits        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
 ```
 
 
@@ -166,7 +168,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2025 18:45:22 UTC
+ Last Updated on 08/06/2025 18:46:00 UTC
 <!--END_SECTION:waka-->
 
 **Languages over All time**
