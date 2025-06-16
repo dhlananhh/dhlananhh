@@ -93,15 +93,13 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,355 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -136,18 +134,18 @@ Sunday                   1301 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               10 hrs 52 mins      ████████████░░░░░░░░░░░░░   46.29 % 
-Text                     3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-JSON                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+TypeScript               6 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.80 % 
+Text                     2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Other                    1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 45 mins      █████████████████████░░░░   84.08 % 
-Sublime Text             3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+VS Code                  14 hrs 40 mins      █████████████████████░░░░   84.17 % 
+Sublime Text             2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
 
 💻 Operating System: 
-Windows                  23 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -167,7 +165,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 15/06/2025 18:45:18 UTC
+ Last Updated on 16/06/2025 18:49:25 UTC
 <!--END_SECTION:waka-->
 
 **Languages over All time**
