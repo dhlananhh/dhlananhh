@@ -93,9 +93,9 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
@@ -110,21 +110,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1065 commits        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-🌆 Daytime                1979 commits        ██████████░░░░░░░░░░░░░░░   39.64 % 
-🌃 Evening                1551 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
-🌙 Night                  397 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+🌞 Morning                1096 commits        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+🌆 Daytime                2007 commits        ██████████░░░░░░░░░░░░░░░   39.64 % 
+🌃 Evening                1563 commits        ████████░░░░░░░░░░░░░░░░░   30.87 % 
+🌙 Night                  397 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   920 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-Tuesday                  510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Wednesday                362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Thursday                 338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Friday                   503 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Saturday                 1058 commits        █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-Sunday                   1301 commits        ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Monday                   920 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Tuesday                  522 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Wednesday                398 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Thursday                 339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Friday                   503 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Saturday                 1058 commits        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Sunday                   1323 commits        ███████░░░░░░░░░░░░░░░░░░   26.13 % 
 ```
 
 
@@ -134,18 +134,18 @@ Sunday                   1301 commits        ███████░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-Text                     2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Other                    1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Bash                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Python                   1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+TypeScript               7 hrs 39 mins       ████████████░░░░░░░░░░░░░   48.45 % 
+Text                     2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+XML                      1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 55 mins      ████████████████████░░░░░   80.69 % 
-Sublime Text             2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+VS Code                  13 hrs 32 mins      █████████████████████░░░░   85.65 % 
+Sublime Text             2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 
 💻 Operating System: 
-Windows                  13 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -165,7 +165,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2025 18:49:40 UTC
+ Last Updated on 18/06/2025 18:49:43 UTC
 <!--END_SECTION:waka-->
 
 **Languages over All time**
