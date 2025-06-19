@@ -80,8 +80,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#9](https://github.com/dhlananhh/my-3d-portfolio/pull/9) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
-2. 💪 Opened PR [#9](https://github.com/dhlananhh/my-3d-portfolio/pull/9) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
+1. 🎉 Merged PR [#5](https://github.com/dhlananhh/quickcart/pull/5) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
+2. 💪 Opened PR [#5](https://github.com/dhlananhh/quickcart/pull/5) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
 3. 🎉 Merged PR [#1](https://github.com/dhlananhh/deepseek-clone/pull/1) in [dhlananhh/deepseek-clone](https://github.com/dhlananhh/deepseek-clone)
 4. 💪 Opened PR [#1](https://github.com/dhlananhh/deepseek-clone/pull/1) in [dhlananhh/deepseek-clone](https://github.com/dhlananhh/deepseek-clone)
 5. 🎉 Merged PR [#3](https://github.com/dhlananhh/my-3d-portfolio/pull/3) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
