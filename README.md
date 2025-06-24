@@ -42,15 +42,15 @@ Here are some ideas to get you started:
 
 # 📌 Pinned Repositories
 
-[![Online Bookstore Frontend](https://github-readme-stats.vercel.app/api/pin/?username=minhlq2003&repo=bookstore-frontend-nextjs)](https://github.com/minhlq2003/bookstore-frontend-nextjs)
-[![Online Bookstore Backend](https://github-readme-stats.vercel.app/api/pin/?username=HieuTrungMc&repo=bookstore-backend-nodejs)](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
-[![Bookstore Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=bookstore_chatbot)](https://github.com/dhlananhh/bookstore_chatbot)
-[![Online ChatHub Website](https://github-readme-stats.vercel.app/api/pin/?username=datvct&repo=chathub-web)](https://github.com/datvct/chathub-web)
-[![My Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=my-3d-portfolio)](https://github.com/dhlananhh/my-3d-portfolio)
-[![Chat With PDF](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=chat-with-pdf)](https://github.com/dhlananhh/chat-with-pdf)
-[![RAG System with Gemini & MongoDB](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Build_RAG_System_with_Gemini_and_MongoDB)](https://github.com/dhlananhh/Build_RAG_System_with_Gemini_and_MongoDB)
-[![RAG System with Gemini & ChromaDB](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Build_RAG_System_with_Gemini_and_ChromaDB)](https://github.com/dhlananhh/Build_RAG_System_with_Gemini_and_ChromaDB)
-[![Educational Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Educational-App)](https://github.com/dhlananhh/Educational-App)
+[![Online Bookstore Frontend](https://github-readme-stats.vercel.app/api/pin/?username=minhlq2003&repo=bookstore-frontend-nextjs&show_owner=true&theme=dracula)](https://github.com/minhlq2003/bookstore-frontend-nextjs)
+[![Online Bookstore Backend](https://github-readme-stats.vercel.app/api/pin/?username=HieuTrungMc&repo=bookstore-backend-nodejs&show_owner=true&theme=dracula)](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
+[![Bookstore Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=bookstore_chatbot&show_owner=true&theme=dracula)](https://github.com/dhlananhh/bookstore_chatbot)
+[![Online ChatHub Website](https://github-readme-stats.vercel.app/api/pin/?username=datvct&repo=chathub-web&show_owner=true&theme=dracula)](https://github.com/datvct/chathub-web)
+[![My Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=my-3d-portfolio&show_owner=true&theme=dracula)](https://github.com/dhlananhh/my-3d-portfolio)
+[![Chat With PDF](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=chat-with-pdf&show_owner=true&theme=dracula)](https://github.com/dhlananhh/chat-with-pdf)
+[![RAG System with Gemini & MongoDB](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Build_RAG_System_with_Gemini_and_MongoDB&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Build_RAG_System_with_Gemini_and_MongoDB)
+[![RAG System with Gemini & ChromaDB](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Build_RAG_System_with_Gemini_and_ChromaDB&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Build_RAG_System_with_Gemini_and_ChromaDB)
+[![Educational Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Educational-App&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Educational-App)
 
 ---
 
