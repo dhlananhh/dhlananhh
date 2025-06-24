@@ -54,11 +54,9 @@ Here are some ideas to get you started:
 
 ---
 
-# 💭 Inspirational Quote
+# 🤝🏻 My Contribution Stats
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Github Profile Quote" />
-</div>
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dhlananhh)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ---
 
@@ -66,6 +64,14 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=dhlananhh&theme=dracula&row=4&column=3&margin-w=5&margin-h=5" alt="Github Profile Trophy" width="800" height="400" />
+</div>
+
+---
+
+# 💭 Inspirational Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Github Profile Quote" />
 </div>
 
 ---
@@ -81,12 +87,6 @@ Here are some ideas to get you started:
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language/?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=6&hide_border=true"
     height="200" alt="most commit languages" />
 </div>
-
----
-
-# 🤝🏻 My Contribution Stats
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dhlananhh)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ---
 
