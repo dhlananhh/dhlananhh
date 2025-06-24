@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 [![RAG System with Gemini & MongoDB](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Build_RAG_System_with_Gemini_and_MongoDB&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Build_RAG_System_with_Gemini_and_MongoDB)
 [![RAG System with Gemini & ChromaDB](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Build_RAG_System_with_Gemini_and_ChromaDB&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Build_RAG_System_with_Gemini_and_ChromaDB)
 [![Educational Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Educational-App&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Educational-App)
+[![ForeverBuy Ecommerce Website](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=ForeverBuy-Ecommerce&show_owner=true&theme=dracula)](https://github.com/dhlananhh/ForeverBuy-Ecommerce)
 
 ---
 
