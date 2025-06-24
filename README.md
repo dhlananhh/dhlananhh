@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 [![Bookstore Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=bookstore_chatbot&show_owner=true&theme=dracula)](https://github.com/dhlananhh/bookstore_chatbot)
 [![Online ChatHub Website](https://github-readme-stats.vercel.app/api/pin/?username=datvct&repo=chathub-web&show_owner=true&theme=dracula)](https://github.com/datvct/chathub-web)
 [![My Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=my-3d-portfolio&show_owner=true&theme=dracula)](https://github.com/dhlananhh/my-3d-portfolio)
-[![Chat With PDF](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=chat-with-pdf&show_owner=true&theme=dracula)](https://github.com/dhlananhh/chat-with-pdf)
+[![BTL PTUD: Quản lý lương theo sản phẩm](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Nhom03_QuanLyLuongTheoSanPham&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Nhom03_QuanLyLuongTheoSanPham)
 [![RAG System with Gemini & MongoDB](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Build_RAG_System_with_Gemini_and_MongoDB&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Build_RAG_System_with_Gemini_and_MongoDB)
 [![RAG System with Gemini & ChromaDB](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Build_RAG_System_with_Gemini_and_ChromaDB&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Build_RAG_System_with_Gemini_and_ChromaDB)
 [![Educational Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Educational-App&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Educational-App)
