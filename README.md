@@ -98,11 +98,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/dhlananhh/quickcart/pull/5) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
-2. 💪 Opened PR [#5](https://github.com/dhlananhh/quickcart/pull/5) in [dhlananhh/quickcart](https://github.com/dhlananhh/quickcart)
-3. 🎉 Merged PR [#1](https://github.com/dhlananhh/deepseek-clone/pull/1) in [dhlananhh/deepseek-clone](https://github.com/dhlananhh/deepseek-clone)
-4. 💪 Opened PR [#1](https://github.com/dhlananhh/deepseek-clone/pull/1) in [dhlananhh/deepseek-clone](https://github.com/dhlananhh/deepseek-clone)
-5. 🎉 Merged PR [#3](https://github.com/dhlananhh/my-3d-portfolio/pull/3) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
+1. 🔒 Closed issue [#3969](https://github.com/Puliczek/github-achievements-academy/issues/3969) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+2. ❗ Opened issue [#3969](https://github.com/Puliczek/github-achievements-academy/issues/3969) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+3. 🔒 Closed issue [#3968](https://github.com/Puliczek/github-achievements-academy/issues/3968) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+4. ❗ Opened issue [#3968](https://github.com/Puliczek/github-achievements-academy/issues/3968) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+5. 🔒 Closed issue [#3967](https://github.com/Puliczek/github-achievements-academy/issues/3967) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
 
 <!--END_SECTION:activity-->
 
