@@ -202,7 +202,7 @@ Last Updated on 24/06/2025 18:51:39 UTC
 # ✨ My Github Stats
 
 <div align="center">
-<table border="0" cellpadding="10">
+<table border="0" cellpadding="10" width="500">
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&include_all_commits=true&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" />
