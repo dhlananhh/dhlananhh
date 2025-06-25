@@ -52,6 +52,12 @@ Here are some ideas to get you started:
 
 ---
 
+# 📌 Pinned PRs
+
+1. 🎉 Merged PR [#2489](https://github.com/emmabostian/developer-portfolios/pull/2489) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+
+---
+
 # 🤝🏻 My Contribution Stats
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dhlananhh)](https://github.com/LordDashMe/github-contribution-stats/)
