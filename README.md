@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 [![Online ChatHub Website](https://github-readme-stats.vercel.app/api/pin/?username=datvct&repo=chathub-web&show_owner=true&theme=dracula)](https://github.com/datvct/chathub-web)
 [![My Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=my-3d-portfolio&show_owner=true&theme=dracula)](https://github.com/dhlananhh/my-3d-portfolio)
 [![BTL PTUD: Quản lý lương theo sản phẩm](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Nhom03_QuanLyLuongTheoSanPham&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Nhom03_QuanLyLuongTheoSanPham)
-[![RAG System with Gemini & MongoDB](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Build_RAG_System_with_Gemini_and_MongoDB&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Build_RAG_System_with_Gemini_and_MongoDB)
-[![RAG System with Gemini & ChromaDB](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Build_RAG_System_with_Gemini_and_ChromaDB&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Build_RAG_System_with_Gemini_and_ChromaDB)
 [![Educational Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Educational-App&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Educational-App)
 [![ForeverBuy Ecommerce Website](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=ForeverBuy-Ecommerce&show_owner=true&theme=dracula)](https://github.com/dhlananhh/ForeverBuy-Ecommerce)
 
@@ -108,79 +106,78 @@ Here are some ideas to get you started:
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 68 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 68 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                2281 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-🌆 Daytime                4290 commits        ████████░░░░░░░░░░░░░░░░░   33.67 % 
-🌃 Evening                4799 commits        █████████░░░░░░░░░░░░░░░░   37.67 % 
-🌙 Night                  1370 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+🌞 Morning                2281 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 %
+🌆 Daytime                4290 commits        ████████░░░░░░░░░░░░░░░░░   33.67 %
+🌃 Evening                4799 commits        █████████░░░░░░░░░░░░░░░░   37.67 %
+🌙 Night                  1370 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   1786 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Tuesday                  2112 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Wednesday                1482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Thursday                 1436 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Friday                   1769 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Saturday                 1571 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Sunday                   2584 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Monday                   1786 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Tuesday                  2112 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 %
+Wednesday                1482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+Thursday                 1436 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+Friday                   1769 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 %
+Saturday                 1571 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+Sunday                   2584 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages: 
-TypeScript               8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.84 % 
-Text                     5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+💬 Programming Languages:
+TypeScript               8 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.84 %
+Text                     5 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 %
+JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+JavaScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 
-🔥 Editors: 
-VS Code                  13 hrs 17 mins      ██████████████████░░░░░░░   70.03 % 
-Sublime Text             5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🔥 Editors:
+VS Code                  13 hrs 17 mins      ██████████████████░░░░░░░   70.03 %
+Sublime Text             5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 %
 
-💻 Operating System: 
-Windows                  18 hrs 58 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  18 hrs 58 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               20 repos            ████████░░░░░░░░░░░░░░░░░   32.79 % 
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+JavaScript               20 repos            ████████░░░░░░░░░░░░░░░░░   32.79 %
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 %
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.75 %
+TypeScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
+Last Updated on 24/06/2025 18:51:39 UTC
 
- Last Updated on 24/06/2025 18:51:39 UTC
 <!--END_SECTION:waka-->
 
 **Languages over All time**
