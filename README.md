@@ -188,15 +188,6 @@ Last Updated on 24/06/2025 18:51:39 UTC
   />
 </a>
 
-<br />
-
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=dhlananhh">
-  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=dhlananhh"
-    alt="Lan Anh's WakaTime stats"
-  />
-</a>
-
 ---
 
 # ✨ My Github Stats
