@@ -202,23 +202,22 @@ Last Updated on 24/06/2025 18:51:39 UTC
 # ✨ My Github Stats
 
 <div align="center">
-  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=dhlananhh" alt="Github Stats by HyoChan">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&include_all_commits=true&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhlananhh&theme=dracula&hide_border=true" alt="GitHub Streak" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&theme=dracula&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true"
-    height="300" weight="300" alt="stats graph" />
+<table border="0" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&include_all_commits=true&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhlananhh&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://stats.hyo.dev/api/github-stats-advanced?login=dhlananhh" alt="Github Stats by HyoChan">
+    </td>
+  </tr>
+</table>
 </div>
-
-<!-- <details>
-<summary>
-  <h1>🚀 My Journey</h1>
-</summary>
-
-<div align="center">
-
-  <br/>
-</div>
-</details> -->
 
 ---
 
