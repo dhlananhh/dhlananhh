@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 [![Bookstore Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=bookstore_chatbot&show_owner=true&theme=dracula)](https://github.com/dhlananhh/bookstore_chatbot)
 [![Online ChatHub Website](https://github-readme-stats.vercel.app/api/pin/?username=datvct&repo=chathub-web&show_owner=true&theme=dracula)](https://github.com/datvct/chathub-web)
 [![My Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=my-3d-portfolio&show_owner=true&theme=dracula)](https://github.com/dhlananhh/my-3d-portfolio)
-[![BTL PTUD: Quản lý lương theo sản phẩm](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Nhom03_QuanLyLuongTheoSanPham&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Nhom03_QuanLyLuongTheoSanPham)
 [![Educational Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Educational-App&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Educational-App)
 [![ForeverBuy Ecommerce Website](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=ForeverBuy-Ecommerce&show_owner=true&theme=dracula)](https://github.com/dhlananhh/ForeverBuy-Ecommerce)
 
