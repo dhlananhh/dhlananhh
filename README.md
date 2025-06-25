@@ -52,9 +52,9 @@ Here are some ideas to get you started:
 
 ---
 
-# 📌 Pinned PRs
+# 🚀 My Open Source Contributions
 
-1. 🎉 Merged PR [#2489](https://github.com/emmabostian/developer-portfolios/pull/2489) in [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)
+- Merged contribution [#2489](https://github.com/emmabostian/developer-portfolios/pull/2489) into **[emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)**.
 
 ---
 
