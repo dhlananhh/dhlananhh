@@ -188,7 +188,14 @@ Last Updated on 24/06/2025 18:51:39 UTC
   />
 </a>
 
-[![Lan Anh's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhlananhh)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=dhlananhh">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=dhlananhh"
+    alt="Lan Anh's WakaTime stats"
+  />
+</a>
 
 ---
 
@@ -212,24 +219,6 @@ Last Updated on 24/06/2025 18:51:39 UTC
   <br/>
 </div>
 </details> -->
-
----
-
-<details>
-<summary>
-  <h1>
-    <span>
-      <img src="https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f4da.svg" alt="book" width="35">
-    </span>
-    Books I'm currently reading
-  </h1>
-</summary>
-
-<!-- GOODREADS-LIST:START -->
-
-<!-- GOODREADS-LIST:END -->
-
-</details>
 
 ---
 
