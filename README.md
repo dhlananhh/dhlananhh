@@ -110,6 +110,13 @@ Here are some ideas to get you started:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=dhlananhh\&layout=compact">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=dhlananhh\&layout=compact"
+    alt="Lan Anh's WakaTime stats"
+  />
+</a>
+
 ## **🐱 My GitHub Data**
 
 > 📦 ? Used in GitHub's Storage
