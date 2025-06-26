@@ -36,7 +36,10 @@ Here are some ideas to get you started:
   👩🏻‍💻 I'm studying Software Engineering in my final year at the Industrial University of Ho Chi Minh City. <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzYxcHlncmM4cm5zenJzYndhMjc3Y2ZiMnhyN2RkNXo2eWRvdHJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kwLOtSFR0lf4MfhPZj/giphy.gif" width="40" /> <br/>
   💪🏻 At the moment, I am working on full-stack projects to improve my skills and experiences. <img src="https://media.giphy.com/media/ImAnYWlmD40QPJYbVf/giphy.gif?cid=ecf05e47hmewgl4ej1t5plnslntb9l53xxidbapoenta3t5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40" /> <br/>
   💁🏻‍♀️ Feel free to chat with me! 💅🏻 ✨ <br/>
-  🙋🏻‍♀️ Want to know more about me? Check out my [portfolio](https://dhlananh-dev-portfolio.vercel.app/).
+  🙋🏻‍♀️ Want to know more about me? Check out my &nbsp;
+  <a href="https://dhlananh-dev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a>
 </div>
 
 ---
