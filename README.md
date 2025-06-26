@@ -42,13 +42,53 @@ Here are some ideas to get you started:
 
 # 📌 Pinned Repositories
 
-[![Online Bookstore Frontend](https://github-readme-stats.vercel.app/api/pin/?username=minhlq2003&repo=bookstore-frontend-nextjs&show_owner=true&theme=dracula)](https://github.com/minhlq2003/bookstore-frontend-nextjs)
-[![Online Bookstore Backend](https://github-readme-stats.vercel.app/api/pin/?username=HieuTrungMc&repo=bookstore-backend-nodejs&show_owner=true&theme=dracula)](https://github.com/HieuTrungMc/bookstore-backend-nodejs)
-[![Bookstore Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=bookstore_chatbot&show_owner=true&theme=dracula)](https://github.com/dhlananhh/bookstore_chatbot)
-[![Online ChatHub Website](https://github-readme-stats.vercel.app/api/pin/?username=datvct&repo=chathub-web&show_owner=true&theme=dracula)](https://github.com/datvct/chathub-web)
-[![My Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=my-3d-portfolio&show_owner=true&theme=dracula)](https://github.com/dhlananhh/my-3d-portfolio)
-[![Educational Mobile App](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Educational-App&show_owner=true&theme=dracula)](https://github.com/dhlananhh/Educational-App)
-[![ForeverBuy Ecommerce Website](https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=ForeverBuy-Ecommerce&show_owner=true&theme=dracula)](https://github.com/dhlananhh/ForeverBuy-Ecommerce)
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0" align="center">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/minhlq2003/bookstore-frontend-nextjs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=minhlq2003&repo=bookstore-frontend-nextjs&show_owner=true&theme=dracula" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/HieuTrungMc/bookstore-backend-nodejs">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=HieuTrungMc&repo=bookstore-backend-nodejs&show_owner=true&theme=dracula" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/dhlananhh/bookstore_chatbot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=bookstore_chatbot&show_owner=true&theme=dracula" />
+        </a>
+      </td>
+      <td align="center">
+         <a href="https://github.com/datvct/chathub-web">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=datvct&repo=chathub-web&show_owner=true&theme=dracula" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+         <a href="https://github.com/dhlananhh/my-3d-portfolio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=my-3d-portfolio&show_owner=true&theme=dracula" />
+        </a>
+      </td>
+      <td align="center">
+         <a href="https://github.com/dhlananhh/Educational-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Educational-App&show_owner=true&theme=dracula" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/dhlananhh/ForeverBuy-Ecommerce">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=ForeverBuy-Ecommerce&show_owner=true&theme=dracula" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
