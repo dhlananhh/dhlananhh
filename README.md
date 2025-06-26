@@ -403,6 +403,10 @@ Last Updated on 25/06/2025 18:51:35 UTC
   <a href="https://www.facebook.com/dhlananhh" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
+  <!-- Messenger -->
+  <a href="https://m.me/dhlananhh" target="_blank">
+    <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+  </a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/dhlananh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
