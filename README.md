@@ -86,6 +86,11 @@ Here are some ideas to get you started:
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=ForeverBuy-Ecommerce&show_owner=true&theme=dracula" />
         </a>
       </td>
+      <td align="center">
+        <a href="https://github.com/dhlananhh/GSAP-Awwwards-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=GSAP-Awwwards-Website&show_owner=true&theme=dracula" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
