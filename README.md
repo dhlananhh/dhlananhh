@@ -152,55 +152,12 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,882 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 70 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2307 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-🌆 Daytime                4356 commits        ████████░░░░░░░░░░░░░░░░░   33.81 % 
-🌃 Evening                4848 commits        █████████░░░░░░░░░░░░░░░░   37.63 % 
-🌙 Night                  1373 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1793 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Tuesday                  2112 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Wednesday                1502 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Thursday                 1447 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Friday                   1826 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Saturday                 1586 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Sunday                   2618 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-Text                     5 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   30.06 % 
-TypeScript               4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Markdown                 3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-JSON                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-
-🔥 Editors: 
-VS Code                  13 hrs 29 mins      █████████████████░░░░░░░░   67.77 % 
-Sublime Text             6 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.23 % 
-
-💻 Operating System: 
-Windows                  19 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -218,7 +175,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2025 18:51:31 UTC
+ Last Updated on 01/07/2025 18:49:59 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
