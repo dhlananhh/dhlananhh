@@ -122,13 +122,12 @@
 # 💳 My GitHub Profile Summary Card
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhlananhh&theme=dracula" alt="profile details card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhlananhh&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhlananhh&theme=dracula&utcOffset=7" alt="productive time" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=6&hide_border=true"
+  <img src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="profile details card" />
+  <img src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/3-stats.svg" />
+  <img src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="productive time" />
+  <img src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg"
     height="200" alt="top languages by repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language/?username=dhlananhh&theme=dracula&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=6&hide_border=true"
-    height="200" alt="most commit languages" />
+  <img src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg" height="200" alt="most commit languages" />
 </div>
 
 ---
