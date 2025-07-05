@@ -132,6 +132,20 @@
 
 ---
 
+# 📶 My GitRoll Stats
+
+<div align="center">
+  <a href="https://gitroll.io/profile/un0OtnKJ2OUb6V7ry50KUqhDvRlm1" target="_blank">
+    <img
+      src="https://gitroll.io/api/badges/profiles/v1/un0OtnKJ2OUb6V7ry50KUqhDvRlm1"
+      alt="GitRoll Profile Badge"
+      height="300" width="600"
+    />
+  </a>
+</div>
+
+---
+
 # ⚡️ Recent Activities
 
 <!--START_SECTION:activity-->
@@ -251,7 +265,11 @@ EJS                      3 repos             █░░░░░░░░░░�
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://stats.hyo.dev/api/github-stats-advanced?login=dhlananhh" alt="Github Stats by HyoChan">
+      <img
+        src="https://stats.hyo.dev/api/github-stats-advanced?login=dhlananhh"
+        alt="Github Stats by HyoChan"
+        height="300" width="600"
+      />
     </td>
   </tr>
 </table>
