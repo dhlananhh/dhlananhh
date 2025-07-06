@@ -124,26 +124,60 @@
 # 💳 My GitHub Profile Summary Card
 
 <div align="center">
-  <img src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/0-profile-details.svg" alt="profile details card" />
-  <img src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/3-stats.svg" />
-  <img src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/4-productive-time.svg" alt="productive time" />
-  <img src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg"
-    height="200" alt="top languages by repo" />
-  <img src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg" height="200" alt="most commit languages" />
-</div>
-
----
-
-# 📶 My GitRoll Stats
-
-<div align="center">
-  <a href="https://gitroll.io/profile/un0OtnKJ2OUb6V7ry50KUqhDvRlm1" target="_blank">
-    <img
-      src="https://gitroll.io/api/badges/profiles/v1/un0OtnKJ2OUb6V7ry50KUqhDvRlm1"
-      alt="GitRoll Profile Badge"
-      height="300" width="600"
-    />
-  </a>
+  <table border="0" cellpadding="10" width="500">
+    <tr>
+      <td align="center" colspan="2">
+        <img
+          src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/0-profile-details.svg"
+          alt="profile details card"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/3-stats.svg"
+          alt="Stats"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/4-productive-time.svg"
+          alt="productive time"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg"
+          height="200"
+          alt="top languages by repo"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg"
+          height="200"
+          alt="most commit languages"
+        />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=dhlananhh&include_all_commits=true&count_private=true&theme=dracula&show_icons=true&hide_border=true"
+          alt="GitHub Stats"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=dhlananhh&theme=dracula&hide_border=true"
+          alt="GitHub Streak"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -254,33 +288,24 @@ EJS                      3 repos             █░░░░░░░░░░�
 # ✨ My Github Stats
 
 <div align="center">
-<table border="0" cellpadding="10" width="500">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dhlananhh&include_all_commits=true&count_private=true&theme=dracula&show_icons=true&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhlananhh&theme=dracula&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img
-        src="https://stats.hyo.dev/api/github-stats-advanced?login=dhlananhh"
-        alt="Github Stats by HyoChan"
-        height="300" width="600"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img
-        src="https://github.com/dhlananhh/dhlananhh/blob/main/images/userstats.svg"
-        alt="user-statistician by cicirello"
-      />
-    </td>
-  </tr>
-</table>
+  <img
+    src="https://github.com/dhlananhh/dhlananhh/blob/main/images/userstats.svg"
+    alt="user-statistician by cicirello"
+  />
+</div>
+
+---
+
+# 📶 My GitRoll Stats
+
+<div align="center">
+  <a href="https://gitroll.io/profile/un0OtnKJ2OUb6V7ry50KUqhDvRlm1" target="_blank">
+    <img
+      src="https://gitroll.io/api/badges/profiles/v1/un0OtnKJ2OUb6V7ry50KUqhDvRlm1"
+      alt="GitRoll Profile Badge"
+      height="300" width="600"
+    />
+  </a>
 </div>
 
 ---
