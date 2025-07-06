@@ -15,7 +15,8 @@ jobs:
     - name: Generate the user stats image for Github Profile
       uses: cicirello/user-statistician@v1
       with:
-        colors: '#f6f0bb #862d2d #862d2d #862d2d #305030'
+        colors: dark-dimmed
+        max-languages: 100
         animated-language-chart: true
       env:
         GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
