@@ -152,7 +152,6 @@
         <img
           src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/1-repos-per-language.svg"
           height="200"
-          width="400"
           alt="top languages by repo"
         />
       </td>
@@ -160,7 +159,6 @@
         <img
           src="https://github.com/dhlananhh/dhlananhh/blob/main/profile-summary-card-output/dracula/2-most-commit-language.svg"
           height="200"
-          width="400"
           alt="most commit languages"
         />
       </td>
