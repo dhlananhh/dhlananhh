@@ -264,14 +264,16 @@ EJS                      3 repos             █░░░░░░░░░░�
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <img
         src="https://stats.hyo.dev/api/github-stats-advanced?login=dhlananhh"
         alt="Github Stats by HyoChan"
         height="300" width="600"
       />
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <img
         src="https://github.com/dhlananhh/dhlananhh/blob/main/images/userstats.svg"
         alt="user-statistician by cicirello"
