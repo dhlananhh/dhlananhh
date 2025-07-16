@@ -425,6 +425,16 @@ EJS                      3 repos             █░░░░░░░░░░�
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
     </td>
   </tr>
+  <tr>
+    <td align="center" width="200" valign="top">
+      <h3>🌐 Browsers</h3>
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="Edge" />
+      <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Google Chrome" />
+      <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox" />
+    </td>
+  </tr>
 </table>
 
 ---
