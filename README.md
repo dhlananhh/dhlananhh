@@ -206,67 +206,67 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+ >
 > 🏆 3,119 Contributions in the Year 2025
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 71 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 71 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                1743 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-🌆 Daytime                4982 commits        █████████░░░░░░░░░░░░░░░░   36.21 % 
-🌃 Evening                4546 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
-🌙 Night                  2489 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+🌞 Morning                1743 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 %
+🌆 Daytime                4982 commits        █████████░░░░░░░░░░░░░░░░   36.21 %
+🌃 Evening                4546 commits        ████████░░░░░░░░░░░░░░░░░   33.04 %
+🌙 Night                  2489 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   2859 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-Tuesday                  3379 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-Wednesday                1512 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Thursday                 1449 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Friday                   1754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Saturday                 1100 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Sunday                   1707 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Monday                   2859 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 %
+Tuesday                  3379 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 %
+Wednesday                1512 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+Thursday                 1449 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+Friday                   1754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Saturday                 1100 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Sunday                   1707 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
-💬 Programming Languages: 
-Text                     4 hrs 45 mins       ████████████████░░░░░░░░░   62.22 % 
-TypeScript               1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+💬 Programming Languages:
+Text                     4 hrs 45 mins       ████████████████░░░░░░░░░   62.22 %
+TypeScript               1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+Markdown                 55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 
-🔥 Editors: 
-Sublime Text             4 hrs 7 mins        █████████████░░░░░░░░░░░░   53.93 % 
-VS Code                  3 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.07 % 
+🔥 Editors:
+Sublime Text             4 hrs 7 mins        █████████████░░░░░░░░░░░░   53.93 %
+VS Code                  3 hrs 31 mins       ████████████░░░░░░░░░░░░░   46.07 %
 
-💻 Operating System: 
-Windows                  7 hrs 38 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  7 hrs 38 mins       █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               20 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
-Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+JavaScript               20 repos            ████████░░░░░░░░░░░░░░░░░   32.26 %
+Java                     14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 %
+Python                   9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.52 %
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 %
+EJS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 ```
 
 
@@ -361,17 +361,15 @@ EJS                      3 repos             █░░░░░░░░░░�
       <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white"
       alt="Chart.js" />
       <img src="https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
-      <img src="https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
       <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
-      <img src="https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven" />
       <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
       <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+      <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" />
       <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon" />
-      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
       <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" />
       <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" alt="Scrapy" />
       <img src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white" alt="Semantic UI React" />
