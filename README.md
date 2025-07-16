@@ -301,20 +301,6 @@ EJS                      3 repos             █░░░░░░░░░░�
 
 ---
 
-# 📶 My GitRoll Stats
-
-<div align="center">
-  <a href="https://gitroll.io/profile/un0OtnKJ2OUb6V7ry50KUqhDvRlm1" target="_blank">
-    <img
-      src="https://gitroll.io/api/badges/profiles/v1/un0OtnKJ2OUb6V7ry50KUqhDvRlm1"
-      alt="GitRoll Profile Badge"
-      height="300" width="600"
-    />
-  </a>
-</div>
-
----
-
 # 💻 My Tech Stack
 
 <table align="center" width="100%">
