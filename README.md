@@ -204,7 +204,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-206%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue)
 
 **🐱 My GitHub Data** 
 
@@ -219,21 +219,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1768 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-🌆 Daytime                5044 commits        █████████░░░░░░░░░░░░░░░░   36.32 % 
-🌃 Evening                4580 commits        ████████░░░░░░░░░░░░░░░░░   32.98 % 
-🌙 Night                  2495 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+🌞 Morning                1774 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+🌆 Daytime                5063 commits        █████████░░░░░░░░░░░░░░░░   36.39 % 
+🌃 Evening                4580 commits        ████████░░░░░░░░░░░░░░░░░   32.92 % 
+🌙 Night                  2495 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2861 commits        █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Tuesday                  3380 commits        ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-Wednesday                1532 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Thursday                 1476 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-Friday                   1776 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Saturday                 1138 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Sunday                   1724 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Monday                   2861 commits        █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
+Tuesday                  3380 commits        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+Wednesday                1532 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Thursday                 1476 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Friday                   1789 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Saturday                 1150 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Sunday                   1724 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
 ```
 
 
@@ -243,18 +243,18 @@ Sunday                   1724 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     4 hrs 58 mins       █████████████████░░░░░░░░   66.36 % 
-TypeScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Text                     6 hrs 56 mins       ███████████████░░░░░░░░░░   61.75 % 
+TypeScript               2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Markdown                 44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 7 mins        ██████████████░░░░░░░░░░░   55.10 % 
-Sublime Text             3 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.90 % 
+VS Code                  6 hrs 34 mins       ███████████████░░░░░░░░░░   58.56 % 
+Sublime Text             4 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.44 % 
 
 💻 Operating System: 
-Windows                  7 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -274,7 +274,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2025 18:53:32 UTC
+ Last Updated on 19/07/2025 18:51:09 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
