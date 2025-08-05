@@ -202,13 +202,15 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 3,302 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -243,18 +245,18 @@ Sunday                   1767 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     6 hrs 35 mins       ████████████░░░░░░░░░░░░░   48.29 % 
-TypeScript               5 hrs 39 mins       ██████████░░░░░░░░░░░░░░░   41.44 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+TypeScript               5 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.16 % 
+Text                     4 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   39.57 % 
+JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 26 mins       █████████████████░░░░░░░░   69.13 % 
-Sublime Text             4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.87 % 
+VS Code                  9 hrs 37 mins       ████████████████████░░░░░   78.55 % 
+Sublime Text             2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
 
 💻 Operating System: 
-Windows                  13 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -274,7 +276,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 18:56:48 UTC
+ Last Updated on 05/08/2025 18:58:34 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
