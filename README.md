@@ -189,11 +189,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3969](https://github.com/Puliczek/github-achievements-academy/issues/3969) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-2. ❗ Opened issue [#3969](https://github.com/Puliczek/github-achievements-academy/issues/3969) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-3. 🔒 Closed issue [#3968](https://github.com/Puliczek/github-achievements-academy/issues/3968) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-4. ❗ Opened issue [#3968](https://github.com/Puliczek/github-achievements-academy/issues/3968) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
-5. 🔒 Closed issue [#3967](https://github.com/Puliczek/github-achievements-academy/issues/3967) in [Puliczek/github-achievements-academy](https://github.com/Puliczek/github-achievements-academy)
+1. 🎉 Merged PR [#17](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/17) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+2. 🎉 Merged PR [#18](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/18) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+3. 🎉 Merged PR [#19](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/19) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+4. 🎉 Merged PR [#20](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/20) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
+5. 🎉 Merged PR [#21](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/21) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
 
 <!--END_SECTION:activity-->
 
