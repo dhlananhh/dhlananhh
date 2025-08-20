@@ -202,9 +202,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-268%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
@@ -219,21 +219,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1604 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-🌆 Daytime                4849 commits        █████████░░░░░░░░░░░░░░░░   36.33 % 
-🌃 Evening                4322 commits        ████████░░░░░░░░░░░░░░░░░   32.38 % 
-🌙 Night                  2571 commits        █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+🌞 Morning                1604 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+🌆 Daytime                4857 commits        █████████░░░░░░░░░░░░░░░░   36.37 % 
+🌃 Evening                4322 commits        ████████░░░░░░░░░░░░░░░░░   32.36 % 
+🌙 Night                  2571 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2848 commits        █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-Tuesday                  3397 commits        ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-Wednesday                1470 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Thursday                 1329 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Friday                   1750 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Monday                   2848 commits        █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Tuesday                  3397 commits        ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Wednesday                1478 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Thursday                 1329 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Friday                   1750 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 Saturday                 909 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Sunday                   1643 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Sunday                   1643 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 ```
 
 
@@ -243,18 +243,18 @@ Sunday                   1643 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               10 hrs 58 mins      ████████████░░░░░░░░░░░░░   49.43 % 
-Markdown                 5 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Text                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-XML                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+TypeScript               12 hrs 25 mins      ████████████░░░░░░░░░░░░░   49.18 % 
+Markdown                 6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Text                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Python                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 43 mins      █████████████████████░░░░   84.31 % 
-Obsidian                 3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+VS Code                  21 hrs 18 mins      █████████████████████░░░░   84.31 % 
+Obsidian                 3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 
 💻 Operating System: 
-Windows                  22 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -274,7 +274,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 18:49:25 UTC
+ Last Updated on 20/08/2025 18:51:10 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
