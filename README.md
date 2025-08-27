@@ -52,8 +52,8 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/dhlananhh/bookstore_chatbot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=bookstore_chatbot&show_owner=true&theme=dracula" />
+        <a href="https://github.com/dhlananhh/synapse-client">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=synapse-client&show_owner=true&theme=dracula" />
         </a>
       </td>
       <td align="center">
