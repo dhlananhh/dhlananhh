@@ -219,21 +219,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-🌆 Daytime                4905 commits        █████████░░░░░░░░░░░░░░░░   36.04 % 
-🌃 Evening                4457 commits        ████████░░░░░░░░░░░░░░░░░   32.75 % 
-🌙 Night                  2639 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+🌞 Morning                1608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+🌆 Daytime                4915 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌃 Evening                4457 commits        ████████░░░░░░░░░░░░░░░░░   32.73 % 
+🌙 Night                  2639 commits        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2859 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Tuesday                  3425 commits        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
-Wednesday                1501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Thursday                 1395 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Friday                   1773 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Saturday                 928 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Sunday                   1728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Monday                   2859 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Tuesday                  3425 commits        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Wednesday                1501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Thursday                 1395 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Friday                   1783 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 928 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Sunday                   1728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 ```
 
 
@@ -243,18 +243,18 @@ Sunday                   1728 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               13 hrs 43 mins      ████████████████░░░░░░░░░   64.85 % 
-JSON                     3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Text                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-CSS                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+TypeScript               16 hrs 41 mins      ██████████████████░░░░░░░   71.50 % 
+JSON                     2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+CSS                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 29 mins      ████████████████████████░   96.85 % 
-Obsidian                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+VS Code                  22 hrs 40 mins      ████████████████████████░   97.15 % 
+Obsidian                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 💻 Operating System: 
-Windows                  21 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  23 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -274,7 +274,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 18:50:09 UTC
+ Last Updated on 29/08/2025 18:46:19 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
