@@ -216,6 +216,47 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+🌆 Daytime                4915 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌃 Evening                4457 commits        ████████░░░░░░░░░░░░░░░░░   32.73 % 
+🌙 Night                  2639 commits        █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2859 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Tuesday                  3425 commits        ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Wednesday                1501 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Thursday                 1395 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Friday                   1783 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 928 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Sunday                   1728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               12 hrs 5 mins       █████████████████░░░░░░░░   69.58 % 
+JSON                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+CSS                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 26 mins      ████████████████████████░   94.51 % 
+Obsidian                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+
+💻 Operating System: 
+Windows                  17 hrs 23 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -233,7 +274,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 18:44:40 UTC
+ Last Updated on 31/08/2025 18:45:39 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
