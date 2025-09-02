@@ -243,18 +243,18 @@ Sunday                   1728 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               8 hrs 53 mins       ███████████████████░░░░░░   75.38 % 
-CSS                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+TypeScript               9 hrs 53 mins       ████████████████████░░░░░   78.63 % 
+Markdown                 38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 10 mins      ████████████████████████░   94.82 % 
-Obsidian                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+VS Code                  11 hrs 58 mins      ████████████████████████░   95.14 % 
+Obsidian                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 💻 Operating System: 
-Windows                  11 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -274,7 +274,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2025 18:47:30 UTC
+ Last Updated on 02/09/2025 18:47:27 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
