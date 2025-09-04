@@ -202,13 +202,15 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 3,854 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -243,18 +245,18 @@ Sunday                   1728 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               8 hrs 31 mins       █████████████████████░░░░   83.02 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-TSConfig                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+TypeScript               7 hrs 49 mins       ██████████████████████░░░   88.28 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 39 mins       ████████████████████████░   94.05 % 
-Obsidian                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+VS Code                  8 hrs 34 mins       ████████████████████████░   96.75 % 
+Obsidian                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 💻 Operating System: 
-Windows                  10 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -274,7 +276,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2025 18:46:56 UTC
+ Last Updated on 04/09/2025 18:48:02 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
