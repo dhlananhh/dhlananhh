@@ -202,13 +202,15 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 3,990 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -219,21 +221,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-🌆 Daytime                4990 commits        █████████░░░░░░░░░░░░░░░░   36.29 % 
-🌃 Evening                4515 commits        ████████░░░░░░░░░░░░░░░░░   32.83 % 
-🌙 Night                  2639 commits        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+🌞 Morning                1608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+🌆 Daytime                4990 commits        █████████░░░░░░░░░░░░░░░░   36.21 % 
+🌃 Evening                4522 commits        ████████░░░░░░░░░░░░░░░░░   32.82 % 
+🌙 Night                  2660 commits        █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2876 commits        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-Tuesday                  3425 commits        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-Wednesday                1520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Thursday                 1425 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Friday                   1822 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Saturday                 956 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Sunday                   1728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Monday                   2876 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Tuesday                  3425 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+Wednesday                1520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Thursday                 1425 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Friday                   1829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Saturday                 977 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Sunday                   1728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 ```
 
 
@@ -243,17 +245,17 @@ Sunday                   1728 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               6 hrs 4 mins        ████████████████░░░░░░░░░   62.77 % 
-JSON                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Prisma                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+TypeScript               7 hrs 32 mins       █████████████████░░░░░░░░   66.32 % 
+JSON                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Bash                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Prisma                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -273,7 +275,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2025 18:45:37 UTC
+ Last Updated on 12/09/2025 18:45:50 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
