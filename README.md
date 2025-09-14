@@ -210,8 +210,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 4,007 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 74 Public Repositories 
@@ -222,20 +220,20 @@
 
 ```text
 🌞 Morning                1608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-🌆 Daytime                4990 commits        █████████░░░░░░░░░░░░░░░░   36.16 % 
-🌃 Evening                4522 commits        ████████░░░░░░░░░░░░░░░░░   32.77 % 
-🌙 Night                  2678 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+🌆 Daytime                5000 commits        █████████░░░░░░░░░░░░░░░░   36.21 % 
+🌃 Evening                4522 commits        ████████░░░░░░░░░░░░░░░░░   32.75 % 
+🌙 Night                  2678 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2876 commits        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Tuesday                  3425 commits        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-Wednesday                1520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Thursday                 1425 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-Friday                   1829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Monday                   2876 commits        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Tuesday                  3425 commits        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+Wednesday                1520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Thursday                 1425 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Friday                   1829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
 Saturday                 995 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Sunday                   1728 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Sunday                   1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 ```
 
 
@@ -245,17 +243,17 @@ Sunday                   1728 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               4 hrs 32 mins       ██████████████████░░░░░░░   70.88 % 
-JSON                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+TypeScript               5 hrs 56 mins       █████████████████░░░░░░░░   66.73 % 
+Mermaid                  2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -275,7 +273,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2025 18:42:58 UTC
+ Last Updated on 14/09/2025 18:43:59 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
