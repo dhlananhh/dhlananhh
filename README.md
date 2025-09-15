@@ -202,9 +202,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **🐱 My GitHub Data** 
 
@@ -243,17 +243,17 @@ Sunday                   1738 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               5 hrs 56 mins       █████████████████░░░░░░░░   66.73 % 
-Mermaid                  2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+TypeScript               8 hrs 44 mins       █████████████████░░░░░░░░   69.65 % 
+Mermaid                  2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 53 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 33 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -273,7 +273,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2025 18:43:59 UTC
+ Last Updated on 15/09/2025 18:48:56 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
