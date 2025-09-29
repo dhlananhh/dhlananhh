@@ -202,7 +202,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%202%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -216,6 +218,46 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1812 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+🌆 Daytime                5919 commits        █████████░░░░░░░░░░░░░░░░   36.35 % 
+🌃 Evening                5388 commits        ████████░░░░░░░░░░░░░░░░░   33.09 % 
+🌙 Night                  3165 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3056 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Tuesday                  3722 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Wednesday                1888 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Thursday                 1956 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Friday                   2451 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Saturday                 1261 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+Sunday                   1950 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+TypeScript               17 hrs 35 mins      ███████████████████░░░░░░   75.90 % 
+JavaScript               3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+
+🔥 Editors: 
+VS Code                  23 hrs 11 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  23 hrs 11 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -233,7 +275,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2025 18:45:06 UTC
+ Last Updated on 29/09/2025 18:50:29 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
