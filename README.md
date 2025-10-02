@@ -202,9 +202,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-369%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
@@ -221,21 +221,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1812 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-🌆 Daytime                5919 commits        █████████░░░░░░░░░░░░░░░░   36.35 % 
-🌃 Evening                5388 commits        ████████░░░░░░░░░░░░░░░░░   33.09 % 
-🌙 Night                  3165 commits        █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+🌞 Morning                1876 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+🌆 Daytime                6195 commits        █████████░░░░░░░░░░░░░░░░   36.33 % 
+🌃 Evening                5653 commits        ████████░░░░░░░░░░░░░░░░░   33.15 % 
+🌙 Night                  3328 commits        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3056 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Tuesday                  3722 commits        ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Wednesday                1888 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Thursday                 1956 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Friday                   2451 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Saturday                 1261 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Sunday                   1950 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Monday                   3106 commits        █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+Tuesday                  3804 commits        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Wednesday                1992 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Thursday                 2125 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   2651 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Saturday                 1356 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Sunday                   2018 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
 ```
 
 
@@ -245,17 +245,17 @@ Sunday                   1950 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               15 hrs 6 mins       ██████████████████░░░░░░░   73.21 % 
-JavaScript               3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TypeScript               15 hrs 6 mins       ██████████████████░░░░░░░   73.08 % 
+JavaScript               3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Bash                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 39 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -275,7 +275,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2025 18:50:26 UTC
+ Last Updated on 02/10/2025 18:48:52 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
