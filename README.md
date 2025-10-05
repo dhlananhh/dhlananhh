@@ -245,17 +245,17 @@ Sunday                   2018 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               13 hrs 49 mins      █████████████████████░░░░   83.37 % 
-JavaScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TypeScript               9 hrs 30 mins       ████████████████████░░░░░   81.13 % 
+JavaScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 42 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -275,7 +275,7 @@ EJS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2025 18:45:33 UTC
+ Last Updated on 05/10/2025 18:45:31 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
