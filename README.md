@@ -189,8 +189,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/dhlananhh/synapse-frontend/pull/2) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
-2. 💪 Opened PR [#2](https://github.com/dhlananhh/synapse-frontend/pull/2) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
+1. 💪 Opened PR [#2](undefined) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
+2. 💪 Opened PR [#1](undefined) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
 3. 🎉 Merged PR [#1](https://github.com/dhlananhh/synapse-frontend/pull/1) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
 4. 💪 Opened PR [#1](https://github.com/dhlananhh/synapse-frontend/pull/1) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
 5. 🎉 Merged PR [#20](https://github.com/dhlananhh/SoftwareArchitecture_Week06/pull/20) in [dhlananhh/SoftwareArchitecture_Week06](https://github.com/dhlananhh/SoftwareArchitecture_Week06)
