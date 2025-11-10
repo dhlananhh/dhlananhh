@@ -202,9 +202,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-473%20hrs%2032%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
@@ -223,19 +223,19 @@
 ```text
 🌞 Morning                2195 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 🌆 Daytime                7267 commits        █████████░░░░░░░░░░░░░░░░   36.14 % 
-🌃 Evening                6794 commits        ████████░░░░░░░░░░░░░░░░░   33.79 % 
+🌃 Evening                6795 commits        ████████░░░░░░░░░░░░░░░░░   33.79 % 
 🌙 Night                  3850 commits        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   3284 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Tuesday                  4157 commits        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Tuesday                  4157 commits        █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
 Wednesday                2372 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 Thursday                 2791 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 Friday                   3353 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
 Saturday                 1810 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Sunday                   2339 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Sunday                   2340 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 ```
 
 
@@ -245,18 +245,18 @@ Sunday                   2339 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 3 hrs 43 mins       ████████████░░░░░░░░░░░░░   48.51 % 
-Python                   2 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Text                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-TeX                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 3 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.61 % 
+Python                   2 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.26 % 
+Text                     1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+TeX                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Sublime Text             4 hrs 18 mins       ██████████████░░░░░░░░░░░   56.09 % 
-VS Code                  3 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.91 % 
+Sublime Text             4 hrs 48 mins       ███████████████░░░░░░░░░░   58.74 % 
+VS Code                  3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   41.26 % 
 
 💻 Operating System: 
-Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -276,7 +276,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 18:47:40 UTC
+ Last Updated on 10/11/2025 18:52:31 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
