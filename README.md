@@ -202,7 +202,7 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
@@ -245,18 +245,18 @@ Sunday                   2340 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 1 hr                █████████░░░░░░░░░░░░░░░░   34.09 % 
-Prisma                   39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Bash                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Text                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Bash                     1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   32.82 % 
+Markdown                 48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Prisma                   40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+YAML                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████░░░░░░░░░░░░   51.28 % 
-Sublime Text             1 hr 25 mins        ████████████░░░░░░░░░░░░░   48.72 % 
+VS Code                  2 hrs 35 mins       ███████████████████░░░░░░   76.16 % 
+Sublime Text             48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
 
 💻 Operating System: 
-Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -276,7 +276,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2025 18:51:00 UTC
+ Last Updated on 29/11/2025 18:50:41 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
