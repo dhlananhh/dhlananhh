@@ -52,8 +52,8 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/dhlananhh/synapse-client">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=synapse-client&show_owner=true&theme=dracula" />
+        <a href="https://github.com/dhlananhh/synapse-frontend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=synapse-frontend&show_owner=true&theme=dracula" />
         </a>
       </td>
       <td align="center">
@@ -66,18 +66,6 @@
       <td align="center">
          <a href="https://github.com/dhlananhh/my-3d-portfolio">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=my-3d-portfolio&show_owner=true&theme=dracula" />
-        </a>
-      </td>
-      <td align="center">
-         <a href="https://github.com/dhlananhh/Educational-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=Educational-App&show_owner=true&theme=dracula" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/dhlananhh/ForeverBuy-Ecommerce">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhlananhh&repo=ForeverBuy-Ecommerce&show_owner=true&theme=dracula" />
         </a>
       </td>
       <td align="center">
