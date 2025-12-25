@@ -192,7 +192,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
@@ -233,9 +233,9 @@ Sunday                   2597 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     14 mins             ██████████░░░░░░░░░░░░░░░   41.71 % 
-Bash                     12 mins             █████████░░░░░░░░░░░░░░░░   36.93 % 
-Docker                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+YAML                     14 mins             ██████████░░░░░░░░░░░░░░░   41.73 % 
+Bash                     12 mins             █████████░░░░░░░░░░░░░░░░   36.95 % 
+Docker                   6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
@@ -264,7 +264,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2025 18:54:24 UTC
+ Last Updated on 25/12/2025 18:55:29 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
