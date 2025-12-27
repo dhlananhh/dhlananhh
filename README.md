@@ -233,18 +233,18 @@ Sunday                   2597 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Bash                     12 mins             ████████████████░░░░░░░░░   62.67 % 
-Docker                   6 mins              ████████░░░░░░░░░░░░░░░░░   30.41 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Bash                     12 mins             ███████████████████░░░░░░   76.12 % 
+Docker                   2 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   99.49 % 
-Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+VS Code                  16 mins             █████████████████████████   99.38 % 
+Sublime Text             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -264,7 +264,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2025 18:53:45 UTC
+ Last Updated on 27/12/2025 18:52:29 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
