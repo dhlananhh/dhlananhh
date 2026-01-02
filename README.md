@@ -192,7 +192,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -206,42 +206,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-🌆 Daytime                7887 commits        █████████░░░░░░░░░░░░░░░░   36.00 % 
-🌃 Evening                7459 commits        █████████░░░░░░░░░░░░░░░░   34.04 % 
-🌙 Night                  4085 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3455 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Tuesday                  4396 commits        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Wednesday                2588 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Thursday                 3119 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Friday                   3679 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Saturday                 2076 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Sunday                   2597 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -259,7 +223,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 01/01/2026 18:55:05 UTC
+ Last Updated on 02/01/2026 18:54:39 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
