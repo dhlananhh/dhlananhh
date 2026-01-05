@@ -190,9 +190,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-527%20hrs%2021%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -210,15 +210,15 @@
 
 ```text
 🌞 Morning                2479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-🌆 Daytime                7892 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
-🌃 Evening                7459 commits        █████████░░░░░░░░░░░░░░░░   34.04 % 
+🌆 Daytime                7893 commits        █████████░░░░░░░░░░░░░░░░   36.01 % 
+🌃 Evening                7459 commits        █████████░░░░░░░░░░░░░░░░   34.03 % 
 🌙 Night                  4085 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3455 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Tuesday                  4401 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Monday                   3455 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Tuesday                  4402 commits        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
 Wednesday                2588 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 Thursday                 3119 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 Friday                   3679 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
@@ -233,17 +233,17 @@ Sunday                   2597 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               50 mins             ███████████░░░░░░░░░░░░░░   42.09 % 
-JSON                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-Vue.js                   23 mins             █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-HTML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Vue.js                   1 hr 34 mins        ███████████░░░░░░░░░░░░░░   43.90 % 
+TypeScript               1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+JSON                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+HTML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               █████████████████████████   100.00 % 
+VS Code                  3 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
+Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -263,7 +263,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:55:03 UTC
+ Last Updated on 05/01/2026 19:00:09 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
