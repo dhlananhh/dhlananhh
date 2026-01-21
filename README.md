@@ -190,9 +190,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -233,18 +233,18 @@ Sunday                   2404 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     1 hr 3 mins         █████████████░░░░░░░░░░░░   50.59 % 
-TypeScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Vue.js                   26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Text                     48 mins             ███████████░░░░░░░░░░░░░░   44.10 % 
+TypeScript               30 mins             ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Vue.js                   26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-Sublime Text             1 hr 3 mins         █████████████░░░░░░░░░░░░   50.59 % 
-VS Code                  1 hr 2 mins         ████████████░░░░░░░░░░░░░   49.41 % 
+VS Code                  1 hr 2 mins         ██████████████░░░░░░░░░░░   55.90 % 
+Sublime Text             48 mins             ███████████░░░░░░░░░░░░░░   44.10 % 
 
 💻 Operating System: 
-Windows                  2 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -264,7 +264,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 20/01/2026 19:23:36 UTC
+ Last Updated on 21/01/2026 19:09:08 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
