@@ -190,9 +190,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-536%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -233,13 +233,18 @@ Sunday                   2404 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     38 mins             █████████████████████████   100.00 % 
+Text                     38 mins             ██████████░░░░░░░░░░░░░░░   40.48 % 
+TypeScript               27 mins             ███████░░░░░░░░░░░░░░░░░░   29.15 % 
+Vue.js                   19 mins             █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-Sublime Text             38 mins             █████████████████████████   100.00 % 
+VS Code                  56 mins             ███████████████░░░░░░░░░░   59.52 % 
+Sublime Text             38 mins             ██████████░░░░░░░░░░░░░░░   40.48 % 
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -259,7 +264,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 24/01/2026 18:56:02 UTC
+ Last Updated on 25/01/2026 18:54:33 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
