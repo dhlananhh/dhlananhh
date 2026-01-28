@@ -192,7 +192,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%203%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -233,15 +233,15 @@ Sunday                   2404 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               1 hr 8 mins         ███████████████░░░░░░░░░░   61.46 % 
-Vue.js                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+TypeScript               1 hr 8 mins         ███████████████░░░░░░░░░░   61.49 % 
+Vue.js                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Text                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        ███████████████████████░░   90.37 % 
-Sublime Text             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+VS Code                  1 hr 40 mins        ███████████████████████░░   90.42 % 
+Sublime Text             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 
 💻 Operating System: 
 Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
@@ -264,7 +264,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 27/01/2026 19:06:47 UTC
+ Last Updated on 28/01/2026 19:03:34 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
