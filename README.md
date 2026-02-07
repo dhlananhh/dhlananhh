@@ -192,7 +192,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-85-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -233,16 +233,16 @@ Sunday                   2430 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-YAML                     12 mins             ██████████████░░░░░░░░░░░   54.23 % 
-Python                   10 mins             ███████████░░░░░░░░░░░░░░   45.08 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+YAML                     12 mins             ██████████████████░░░░░░░   70.68 % 
+Python                   5 mins              ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -262,7 +262,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2026 19:16:40 UTC
+ Last Updated on 07/02/2026 19:02:32 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
