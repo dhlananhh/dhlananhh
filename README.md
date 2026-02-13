@@ -233,14 +233,13 @@ Sunday                   2430 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   4 mins              ██████████████░░░░░░░░░░░   57.83 % 
-YAML                     3 mins              ███████████░░░░░░░░░░░░░░   42.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -260,7 +259,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 12/02/2026 19:37:30 UTC
+ Last Updated on 13/02/2026 19:17:58 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
