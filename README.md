@@ -106,16 +106,13 @@
         />
       </td>
     </tr>
-  </table>
-
-  <table border="0" cellpadding="10" width="500">
-  <tr>
-      <td align="center" colspan="2">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=dhlananhh&theme=dracula&hide_border=true"
-          alt="GitHub Streak"
-        />
-      </td>
+    <tr>
+    <td align="center" colspan="2">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=dhlananhh&theme=dracula&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
     </tr>
   </table>
 </div>
