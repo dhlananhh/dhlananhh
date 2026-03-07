@@ -179,15 +179,13 @@ Sunday                   2431 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 4 mins              ████████████████████████░   97.82 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Text                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 mins              ████████████████████████░   97.82 % 
-Sublime Text             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Sublime Text             0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +205,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2026 19:12:00 UTC
+ Last Updated on 07/03/2026 18:58:18 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
