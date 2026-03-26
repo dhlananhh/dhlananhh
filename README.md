@@ -136,15 +136,15 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2026
+> 🏆 31 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -155,21 +155,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2304 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-🌆 Daytime                7668 commits        █████████░░░░░░░░░░░░░░░░   36.16 % 
-🌃 Evening                7213 commits        █████████░░░░░░░░░░░░░░░░   34.02 % 
-🌙 Night                  4018 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+🌞 Morning                2312 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+🌆 Daytime                7668 commits        █████████░░░░░░░░░░░░░░░░   36.15 % 
+🌃 Evening                7214 commits        █████████░░░░░░░░░░░░░░░░   34.01 % 
+🌙 Night                  4018 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   3359 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Tuesday                  4321 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+Tuesday                  4321 commits        █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
 Wednesday                2503 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Thursday                 3010 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-Friday                   3638 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Thursday                 3019 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Friday                   3638 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 Saturday                 1941 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Sunday                   2431 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Sunday                   2431 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 ```
 
 
@@ -179,13 +179,18 @@ Sunday                   2431 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     5 mins              █████████████████████████   100.00 % 
+JSON                     23 mins             ███████████░░░░░░░░░░░░░░   43.17 % 
+Prisma                   11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+TypeScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Text                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-Sublime Text             5 mins              █████████████████████████   100.00 % 
+VS Code                  48 mins             ██████████████████████░░░   88.73 % 
+Sublime Text             6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  54 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +210,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2026 19:22:27 UTC
+ Last Updated on 26/03/2026 19:42:25 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
