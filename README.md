@@ -123,10 +123,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#18](https://github.com/dhlananhh/synapse-frontend/pull/18) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
-2. 💪 Opened PR [#18](https://github.com/dhlananhh/synapse-frontend/pull/18) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
-3. 🎉 Merged PR [#17](https://github.com/dhlananhh/synapse-frontend/pull/17) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
-4. 💪 Opened PR [#17](https://github.com/dhlananhh/synapse-frontend/pull/17) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
+1. 🎉 Merged PR [#18](https://github.com/dhlananhh/my-3d-portfolio/pull/18) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
+2. 💪 Opened PR [#18](https://github.com/dhlananhh/my-3d-portfolio/pull/18) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
+3. 🎉 Merged PR [#17](https://github.com/dhlananhh/my-3d-portfolio/pull/17) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
+4. 💪 Opened PR [#17](https://github.com/dhlananhh/my-3d-portfolio/pull/17) in [dhlananhh/my-3d-portfolio](https://github.com/dhlananhh/my-3d-portfolio)
 5. 🎉 Merged PR [#16](https://github.com/dhlananhh/synapse-frontend/pull/16) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
 
 <!--END_SECTION:activity-->
