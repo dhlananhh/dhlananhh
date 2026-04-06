@@ -144,7 +144,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 81 Contributions in the Year 2026
+> 🏆 88 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -155,21 +155,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2398 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-🌆 Daytime                7793 commits        █████████░░░░░░░░░░░░░░░░   36.18 % 
-🌃 Evening                7315 commits        ████████░░░░░░░░░░░░░░░░░   33.96 % 
-🌙 Night                  4032 commits        █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+🌞 Morning                2402 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+🌆 Daytime                7806 commits        █████████░░░░░░░░░░░░░░░░   36.21 % 
+🌃 Evening                7320 commits        ████████░░░░░░░░░░░░░░░░░   33.95 % 
+🌙 Night                  4032 commits        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3388 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Tuesday                  4348 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-Wednesday                2538 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Thursday                 3051 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Friday                   3702 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Saturday                 2002 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Sunday                   2509 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Monday                   3400 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Tuesday                  4349 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Wednesday                2538 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Thursday                 3051 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   3702 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Saturday                 2002 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Sunday                   2518 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 ```
 
 
@@ -179,18 +179,18 @@ Sunday                   2509 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               7 hrs 36 mins       ██████████████░░░░░░░░░░░   56.94 % 
-Text                     2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-JSON                     2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Bash                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+TypeScript               9 hrs 14 mins       ██████████████░░░░░░░░░░░   54.65 % 
+Text                     2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+JSON                     2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 24 mins      █████████████████████░░░░   85.42 % 
-Sublime Text             1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+VS Code                  14 hrs 23 mins      █████████████████████░░░░   85.12 % 
+Sublime Text             2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 
 💻 Operating System: 
-Windows                  13 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +210,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2026 19:13:30 UTC
+ Last Updated on 06/04/2026 19:40:07 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
