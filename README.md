@@ -155,8 +155,8 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2411 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-🌆 Daytime                7808 commits        █████████░░░░░░░░░░░░░░░░   36.20 % 
+🌞 Morning                2414 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+🌆 Daytime                7808 commits        █████████░░░░░░░░░░░░░░░░   36.19 % 
 🌃 Evening                7320 commits        ████████░░░░░░░░░░░░░░░░░   33.93 % 
 🌙 Night                  4032 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
 ```
@@ -165,7 +165,7 @@
 ```text
 Monday                   3402 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 Tuesday                  4349 commits        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Wednesday                2547 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Wednesday                2550 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 Thursday                 3051 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
 Friday                   3702 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
 Saturday                 2002 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
@@ -179,18 +179,18 @@ Sunday                   2518 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               11 hrs 37 mins      ██████████████░░░░░░░░░░░   56.25 % 
-Text                     4 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-JSON                     3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-JavaScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TypeScript               8 hrs 56 mins       ██████████████░░░░░░░░░░░   54.72 % 
+Text                     3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+JSON                     2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+JavaScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 7 mins       █████████████████████░░░░   82.84 % 
-Sublime Text             3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+VS Code                  12 hrs 56 mins      ████████████████████░░░░░   79.14 % 
+Sublime Text             3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
 
 💻 Operating System: 
-Windows                  20 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +210,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 09/04/2026 19:51:29 UTC
+ Last Updated on 10/04/2026 19:22:04 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
