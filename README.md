@@ -123,11 +123,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#18](https://github.com/dhlananhh/my-dynamic-portfolio/pull/18) in [dhlananhh/my-dynamic-portfolio](https://github.com/dhlananhh/my-dynamic-portfolio)
-2. 💪 Opened PR [#18](https://github.com/dhlananhh/my-dynamic-portfolio/pull/18) in [dhlananhh/my-dynamic-portfolio](https://github.com/dhlananhh/my-dynamic-portfolio)
-3. 🎉 Merged PR [#17](https://github.com/dhlananhh/my-dynamic-portfolio/pull/17) in [dhlananhh/my-dynamic-portfolio](https://github.com/dhlananhh/my-dynamic-portfolio)
-4. 💪 Opened PR [#17](https://github.com/dhlananhh/my-dynamic-portfolio/pull/17) in [dhlananhh/my-dynamic-portfolio](https://github.com/dhlananhh/my-dynamic-portfolio)
-5. 🎉 Merged PR [#16](https://github.com/dhlananhh/synapse-frontend/pull/16) in [dhlananhh/synapse-frontend](https://github.com/dhlananhh/synapse-frontend)
+1. 🎉 Merged PR [#20](https://github.com/dhlananhh/my-dynamic-portfolio/pull/20) in [dhlananhh/my-dynamic-portfolio](https://github.com/dhlananhh/my-dynamic-portfolio)
+2. 💪 Opened PR [#20](https://github.com/dhlananhh/my-dynamic-portfolio/pull/20) in [dhlananhh/my-dynamic-portfolio](https://github.com/dhlananhh/my-dynamic-portfolio)
+3. 🎉 Merged PR [#19](https://github.com/dhlananhh/my-dynamic-portfolio/pull/19) in [dhlananhh/my-dynamic-portfolio](https://github.com/dhlananhh/my-dynamic-portfolio)
+4. 💪 Opened PR [#19](https://github.com/dhlananhh/my-dynamic-portfolio/pull/19) in [dhlananhh/my-dynamic-portfolio](https://github.com/dhlananhh/my-dynamic-portfolio)
+5. 🎉 Merged PR [#18](https://github.com/dhlananhh/my-dynamic-portfolio/pull/18) in [dhlananhh/my-dynamic-portfolio](https://github.com/dhlananhh/my-dynamic-portfolio)
 
 <!--END_SECTION:activity-->
 
