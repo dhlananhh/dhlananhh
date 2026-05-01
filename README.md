@@ -136,7 +136,7 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -144,32 +144,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 108 Contributions in the Year 2026
+> 🏆 174 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 68 Public Repositories 
+> 📜 69 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2414 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-🌆 Daytime                7823 commits        █████████░░░░░░░░░░░░░░░░   36.23 % 
-🌃 Evening                7324 commits        ████████░░░░░░░░░░░░░░░░░   33.92 % 
-🌙 Night                  4032 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+🌞 Morning                2435 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+🌆 Daytime                7835 commits        █████████░░░░░░░░░░░░░░░░   36.18 % 
+🌃 Evening                7351 commits        ████████░░░░░░░░░░░░░░░░░   33.94 % 
+🌙 Night                  4037 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3411 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Tuesday                  4352 commits        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
-Wednesday                2551 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Thursday                 3051 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Friday                   3702 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Saturday                 2002 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Sunday                   2524 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Monday                   3419 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Tuesday                  4381 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Wednesday                2562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Thursday                 3052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Friday                   3718 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Saturday                 2002 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Sunday                   2524 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 
 
@@ -179,28 +179,28 @@ Sunday                   2524 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               13 hrs 58 mins      █████████████████░░░░░░░░   68.27 % 
-Batchfile                1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Prisma                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+TypeScript               12 hrs 54 mins      ██████████████████░░░░░░░   70.37 % 
+Batchfile                1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Text                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Prisma                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 41 mins      ████████████████████████░   96.25 % 
-Sublime Text             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+VS Code                  17 hrs 21 mins      ████████████████████████░   94.70 % 
+Sublime Text             58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 💻 Operating System: 
-Windows                  20 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               26 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-Java                     14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JavaScript               26 repos            ██████████░░░░░░░░░░░░░░░   39.39 % 
+Java                     14 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
@@ -210,7 +210,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2026 20:00:22 UTC
+ Last Updated on 01/05/2026 19:52:29 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
