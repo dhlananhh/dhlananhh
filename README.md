@@ -179,18 +179,18 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Batchfile                1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-JSON                     1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Markdown                 1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Text                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-TypeScript               50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Batchfile                1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+JSON                     1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Markdown                 1 hr 37 mins        █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Text                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 29 mins       ██████████████████████░░░   88.46 % 
-Sublime Text             58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+VS Code                  6 hrs 59 mins       ██████████████████████░░░   87.43 % 
+Sublime Text             1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 
 💻 Operating System: 
-Windows                  8 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +210,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2026 19:56:08 UTC
+ Last Updated on 09/05/2026 19:43:15 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
