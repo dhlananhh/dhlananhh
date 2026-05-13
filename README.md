@@ -138,7 +138,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -179,18 +179,17 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JSON                     41 mins             ███████████░░░░░░░░░░░░░░   45.84 % 
-Text                     26 mins             ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-TypeScript               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Prisma                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JSON                     19 mins             █████████░░░░░░░░░░░░░░░░   36.31 % 
+TypeScript               14 mins             ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Text                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+Prisma                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
 
 🔥 Editors: 
-VS Code                  1 hr 4 mins         ██████████████████░░░░░░░   70.96 % 
-Sublime Text             26 mins             ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+VS Code                  41 mins             ███████████████████░░░░░░   77.40 % 
+Sublime Text             12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
 
 💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
+Windows                  53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -210,7 +209,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2026 20:20:11 UTC
+ Last Updated on 13/05/2026 20:21:58 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
