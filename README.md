@@ -138,7 +138,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-616%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -179,17 +179,17 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JSON                     19 mins             █████████░░░░░░░░░░░░░░░░   36.31 % 
-TypeScript               14 mins             ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Text                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
-Prisma                   7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+TypeScript               14 mins             █████████░░░░░░░░░░░░░░░░   36.92 % 
+JSON                     12 mins             ████████░░░░░░░░░░░░░░░░░   33.60 % 
+Text                     11 mins             ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  41 mins             ███████████████████░░░░░░   77.40 % 
-Sublime Text             12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
+VS Code                  27 mins             ██████████████████░░░░░░░   71.13 % 
+Sublime Text             11 mins             ███████░░░░░░░░░░░░░░░░░░   28.87 % 
 
 💻 Operating System: 
-Windows                  53 mins             █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +209,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2026 20:21:58 UTC
+ Last Updated on 14/05/2026 20:17:02 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
