@@ -136,7 +136,7 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue?style=flat)
 
@@ -179,15 +179,15 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     9 mins              ██████████████░░░░░░░░░░░   57.86 % 
-JSON                     7 mins              ███████████░░░░░░░░░░░░░░   42.14 % 
+Text                     22 mins             ███████████████████░░░░░░   75.23 % 
+JSON                     7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
 
 🔥 Editors: 
-Sublime Text             9 mins              ██████████████░░░░░░░░░░░   57.86 % 
-VS Code                  7 mins              ███████████░░░░░░░░░░░░░░   42.14 % 
+Sublime Text             22 mins             ███████████████████░░░░░░   75.23 % 
+VS Code                  7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
 
 💻 Operating System: 
-Windows                  17 mins             █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +207,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:25:08 UTC
+ Last Updated on 22/05/2026 20:22:42 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
