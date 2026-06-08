@@ -136,6 +136,8 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2024%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -150,6 +152,42 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2436 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+🌆 Daytime                7875 commits        █████████░░░░░░░░░░░░░░░░   36.26 % 
+🌃 Evening                7360 commits        ████████░░░░░░░░░░░░░░░░░   33.89 % 
+🌙 Night                  4048 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3430 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Tuesday                  4390 commits        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Wednesday                2562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Thursday                 3052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Friday                   3718 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Saturday                 2034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Sunday                   2533 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+Text                     1 hr 19 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Sublime Text             1 hr 19 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -167,7 +205,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2026 19:57:26 UTC
+ Last Updated on 08/06/2026 20:44:39 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
