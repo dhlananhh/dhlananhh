@@ -136,7 +136,7 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -179,13 +179,13 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     1 hr 19 mins        █████████████████████████   100.00 % 
+Text                     1 hr 22 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Sublime Text             1 hr 19 mins        █████████████████████████   100.00 % 
+Sublime Text             1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +205,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2026 20:44:39 UTC
+ Last Updated on 09/06/2026 20:32:27 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
