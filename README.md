@@ -138,7 +138,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -179,15 +179,15 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     1 hr 31 mins        ████████████████░░░░░░░░░   63.42 % 
-SQL                      46 mins             ████████░░░░░░░░░░░░░░░░░   32.30 % 
-AGS Script               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Text                     51 mins             ████████████░░░░░░░░░░░░░   49.04 % 
+SQL                      46 mins             ███████████░░░░░░░░░░░░░░   45.04 % 
+AGS Script               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 🔥 Editors: 
-Sublime Text             2 hrs 24 mins       █████████████████████████   100.00 % 
+Sublime Text             1 hr 44 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +207,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2026 20:04:12 UTC
+ Last Updated on 14/06/2026 20:09:46 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
