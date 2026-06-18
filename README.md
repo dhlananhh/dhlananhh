@@ -156,7 +156,7 @@
 
 ```text
 🌞 Morning                2436 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-🌆 Daytime                7881 commits        █████████░░░░░░░░░░░░░░░░   36.28 % 
+🌆 Daytime                7882 commits        █████████░░░░░░░░░░░░░░░░   36.28 % 
 🌃 Evening                7360 commits        ████████░░░░░░░░░░░░░░░░░   33.88 % 
 🌙 Night                  4048 commits        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
 ```
@@ -164,7 +164,7 @@
 
 ```text
 Monday                   3430 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Tuesday                  4396 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Tuesday                  4397 commits        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
 Wednesday                2562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 Thursday                 3052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 Friday                   3718 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
@@ -179,15 +179,13 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     2 hrs 19 mins       ██████████████████░░░░░░░   72.51 % 
-SQL                      46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
-AGS Script               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Text                     2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Sublime Text             3 hrs 13 mins       █████████████████████████   100.00 % 
+Sublime Text             2 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +205,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2026 20:41:07 UTC
+ Last Updated on 18/06/2026 20:48:53 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
