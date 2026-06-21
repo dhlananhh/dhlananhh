@@ -136,7 +136,7 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -156,7 +156,7 @@
 
 ```text
 🌞 Morning                2436 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-🌆 Daytime                7883 commits        █████████░░░░░░░░░░░░░░░░   36.28 % 
+🌆 Daytime                7884 commits        █████████░░░░░░░░░░░░░░░░   36.28 % 
 🌃 Evening                7360 commits        ████████░░░░░░░░░░░░░░░░░   33.87 % 
 🌙 Night                  4048 commits        █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
 ```
@@ -164,7 +164,7 @@
 
 ```text
 Monday                   3430 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Tuesday                  4398 commits        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Tuesday                  4399 commits        █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
 Wednesday                2562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 Thursday                 3052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
 Friday                   3718 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
@@ -179,13 +179,13 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Text                     2 hrs 10 mins       █████████████████████████   100.00 % 
+Text                     57 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Sublime Text             2 hrs 10 mins       █████████████████████████   100.00 % 
+Sublime Text             57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +205,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 20:06:06 UTC
+ Last Updated on 21/06/2026 20:14:26 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
