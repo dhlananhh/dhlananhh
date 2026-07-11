@@ -136,9 +136,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-634%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -179,19 +179,19 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-CSHTML                   3 hrs 36 mins       █████████████░░░░░░░░░░░░   52.88 % 
-JSON                     1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-CSS                      56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+CSHTML                   8 hrs 46 mins       █████████████████░░░░░░░░   68.01 % 
+JSON                     1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+CSS                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+C#                       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 41 mins       ████████████████████████░   97.90 % 
-Sublime Text             8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+VS Code                  12 hrs 5 mins       ███████████████████████░░   93.77 % 
+Claude Code              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Sublime Text             14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Windows                  6 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -211,7 +211,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 10/07/2026 20:03:48 UTC
+ Last Updated on 11/07/2026 19:43:45 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
