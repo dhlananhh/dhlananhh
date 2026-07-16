@@ -136,7 +136,7 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -179,19 +179,19 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-CSHTML                   11 hrs 31 mins      ████████████████░░░░░░░░░   65.59 % 
-JSON                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Text                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-C#                       1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-CSS                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+CSHTML                   11 hrs 38 mins      ██████████████░░░░░░░░░░░   57.00 % 
+JSON                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+C#                       2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Text                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+XML                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 4 mins       █████████████████████░░░░   85.84 % 
-Sublime Text             1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Claude Code              52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+VS Code                  15 hrs 52 mins      ███████████████████░░░░░░   77.76 % 
+Claude Code              2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Sublime Text             2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 
 💻 Operating System: 
-Windows                  17 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -211,7 +211,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 15/07/2026 19:51:01 UTC
+ Last Updated on 16/07/2026 19:44:41 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
