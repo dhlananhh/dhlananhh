@@ -179,19 +179,19 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-CSHTML                   9 hrs 29 mins       ████████████░░░░░░░░░░░░░   48.36 % 
-Text                     3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-C#                       2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-JSON                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-XML                      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+CSHTML                   5 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   32.65 % 
+Text                     4 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+C#                       2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+XML                      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+JSON                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 35 mins      ████████████████░░░░░░░░░   64.09 % 
-Claude Code              3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
-Sublime Text             3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+VS Code                  8 hrs 32 mins       ████████████░░░░░░░░░░░░░   49.24 % 
+Sublime Text             4 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+Claude Code              4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
 
 💻 Operating System: 
-Windows                  19 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -211,7 +211,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2026 19:43:58 UTC
+ Last Updated on 18/07/2026 19:43:15 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
