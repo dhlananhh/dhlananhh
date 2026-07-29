@@ -136,9 +136,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -154,6 +154,70 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2436 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+🌆 Daytime                7829 commits        █████████░░░░░░░░░░░░░░░░   36.12 % 
+🌃 Evening                7361 commits        ████████░░░░░░░░░░░░░░░░░   33.96 % 
+🌙 Night                  4048 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3430 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  4344 commits        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Wednesday                2562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Thursday                 3053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Friday                   3718 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Saturday                 2034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Sunday                   2533 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+C#                       11 hrs              ███████████░░░░░░░░░░░░░░   43.57 % 
+XML                      3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+CSHTML                   2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Text                     2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+JavaScript               2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 34 mins      ██████████████████░░░░░░░   73.47 % 
+Claude Code              4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Sublime Text             2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+
+💻 Operating System: 
+Windows                  25 hrs 17 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 18 mins (36.83%)
+
+✍️ 4,222 lines written by AI, 3,474 lines written by hand (54.86% AI-written)
+
+🔤 48,146,804 Input Tokens, 529,261 Output Tokens
+
+💵 $253.87 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 71 AI Prompts
+
+Opus                     4,972 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 54.86% of written lines came from AI
+📚 Verbose Prompter — average 1,697 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 60.22% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -171,7 +235,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 20:06:21 UTC
+ Last Updated on 29/07/2026 19:56:16 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
