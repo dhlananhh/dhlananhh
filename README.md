@@ -154,6 +154,70 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2436 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+🌆 Daytime                7829 commits        █████████░░░░░░░░░░░░░░░░   36.12 % 
+🌃 Evening                7361 commits        ████████░░░░░░░░░░░░░░░░░   33.96 % 
+🌙 Night                  4048 commits        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3430 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  4344 commits        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Wednesday                2562 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Thursday                 3053 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Friday                   3718 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Saturday                 2034 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Sunday                   2533 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Ho_Chi_Minh
+
+💬 Programming Languages: 
+C#                       10 hrs 39 mins      ███████████████████░░░░░░   77.58 % 
+Text                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+CSHTML                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 40 mins       ██████████████████░░░░░░░   70.40 % 
+Claude Code              2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Sublime Text             1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+
+💻 Operating System: 
+Windows                  13 hrs 43 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 25 mins (25.0%)
+
+✍️ 878 lines written by AI, 1,932 lines written by hand (31.25% AI-written)
+
+🔤 22,595,985 Input Tokens, 193,850 Output Tokens
+
+💵 $117.13 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 48 AI Prompts
+
+Opus                     938 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 31.25% of written lines came from AI
+📄 Detailed Prompter — average 574 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 74.34% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -171,7 +235,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:27:36 UTC
+ Last Updated on 07/08/2026 19:32:07 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
