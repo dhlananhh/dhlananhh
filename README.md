@@ -136,11 +136,11 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-710%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-715%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -181,24 +181,39 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C#                       5 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.22 % 
-Text                     1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-CSHTML                   1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-JSON                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-XML                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+C#                       6 hrs 47 mins       ████████████░░░░░░░░░░░░░   46.98 % 
+CSHTML                   2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Text                     2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+JavaScript               2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 40 mins       █████████████████████░░░░   82.27 % 
-Sublime Text             1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+VS Code                  12 hrs 20 mins      █████████████████████░░░░   85.27 % 
+Sublime Text             2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Windows                  10 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 17 mins (2.01%)
+
+✍️ 0 lines written by AI, 3,027 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 135 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 194 characters per prompt
+🔁 Iterative Prompter — average 135 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -218,7 +233,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:06:35 UTC
+ Last Updated on 20/08/2026 19:13:59 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
