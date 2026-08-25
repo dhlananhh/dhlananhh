@@ -181,27 +181,27 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C#                       13 hrs 15 mins      █████████████░░░░░░░░░░░░   50.10 % 
-CSHTML                   4 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Text                     3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-JavaScript               2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-JSON                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+C#                       11 hrs 34 mins      ███████████░░░░░░░░░░░░░░   42.97 % 
+CSHTML                   6 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Text                     3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+JavaScript               3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+JSON                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 10 mins      ██████████████████████░░░   87.58 % 
-Sublime Text             3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+VS Code                  23 hrs 36 mins      ██████████████████████░░░   87.72 % 
+Sublime Text             3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
 Claude Code              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Windows                  26 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (1.1%)
+⏱ AI Coding Time: 17 mins (1.08%)
 
-✍️ 0 lines written by AI, 4,542 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 4,158 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -233,7 +233,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:12:53 UTC
+ Last Updated on 25/08/2026 19:11:45 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
