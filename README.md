@@ -181,27 +181,27 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C#                       7 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.19 % 
-CSHTML                   6 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-JavaScript               5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Text                     2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+C#                       7 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+CSHTML                   6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+JavaScript               5 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Text                     3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 58 mins      █████████████████████░░░░   85.36 % 
-Sublime Text             2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+VS Code                  19 hrs 57 mins      █████████████████████░░░░   82.11 % 
+Sublime Text             3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Claude Code              27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 💻 Operating System: 
-Windows                  23 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 45 mins (7.54%)
+⏱ AI Coding Time: 1 hr 45 mins (7.26%)
 
-✍️ 212 lines written by AI, 5,765 lines written by hand (3.55% AI-written)
+✍️ 212 lines written by AI, 5,925 lines written by hand (3.45% AI-written)
 
 🔤 99,001 Input Tokens, 41,755 Output Tokens
 
@@ -212,10 +212,10 @@ Windows                  23 hrs 24 mins      ███████████�
 Opus                     212 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.55% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 3.45% of written lines came from AI
 📝 Concise Prompter — average 441 characters per prompt
 🔁 Iterative Prompter — average 23 prompts per session
-🔍 Hands-On Reviewer — 98.38% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 98.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -235,7 +235,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 01:53:52 UTC
+ Last Updated on 29/08/2026 21:06:27 UTC
 <!--END_SECTION:waka-->
 
 ## **Languages over All time**
