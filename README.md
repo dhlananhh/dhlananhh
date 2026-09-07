@@ -238,12 +238,25 @@ PHP                      1 repo              ░░░░░░░░░░░�
  Last Updated on 06/09/2026 20:39:15 UTC
 <!--END_SECTION:waka-->
 
-## **Languages over All time**
+---
+
+## **Languages over all time**
 
 <a href="https://wakatime.com">
   <img
     src="https://wakatime.com/share/@dhlananhh/02685648-2252-4bf9-80df-37380891be13.svg"
-    alt="Languages over All time"
+    alt="Languages over all time"
+  />
+</a>
+
+---
+
+## **Coding activity over all time**
+
+<a href="https://wakatime.com">
+  <img
+    src="https://wakatime.com/share/@dhlananhh/f555cb41-8cbc-434f-85e5-2912e85eb914.svg"
+    alt="Coding activity over all time"
   />
 </a>
 
