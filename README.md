@@ -405,7 +405,10 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h1>🐍 My Contributions 🐍</h1>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhlananhh&theme=dracula&hide_border=true" alt="contribution graph" />
+  <img 
+    src="https://githubactivitygraph.vercel.app/graph?username=dhlananhh&theme=dracula" 
+    alt="contribution graph" 
+  />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dhlananhh/dhlananhh/output/github-contribution-grid-snake-light.svg" />
 </div>
 
