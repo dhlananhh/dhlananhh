@@ -136,9 +136,9 @@
 # 📊 My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-787%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -181,42 +181,42 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-HTML                     8 hrs 40 mins       █████████████░░░░░░░░░░░░   50.47 % 
-Python                   4 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.87 % 
-Markdown                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Text                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+HTML                     9 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
+Python                   6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   31.56 % 
+Markdown                 2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Text                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Other                    35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 34 mins      █████████████████░░░░░░░░   67.28 % 
-VS Code                  5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.07 % 
-Sublime Text             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Claude Code              15 hrs 35 mins      ██████████████████░░░░░░░   71.44 % 
+VS Code                  5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Sublime Text             52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 
 💻 Operating System: 
-Windows                  17 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 9 mins (76.53%)
+⏱ AI Coding Time: 17 hrs 40 mins (80.99%)
 
-✍️ 8,711 lines written by AI, 90 lines written by hand (98.98% AI-written)
+✍️ 12,450 lines written by AI, 807 lines written by hand (93.91% AI-written)
 
-🔤 4,941,500 Input Tokens, 611,779 Output Tokens
+🔤 5,842,734 Input Tokens, 852,008 Output Tokens
 
-💵 $138.98 Estimated AI Cost This Week
+💵 $186.97 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 144 AI Prompts
+🧠 19 AI Sessions, 203 AI Prompts
 
-Opus                     8,797 lines         █████████████████████████   100.00 % 
+Opus                     12,538 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.98% of written lines came from AI
-📄 Detailed Prompter — average 1,166 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 31.06% of changed lines were hand-edited
+🤖 AI-Driven — 93.91% of written lines came from AI
+📄 Detailed Prompter — average 1,151 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 27.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -236,7 +236,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:57:08 UTC
+ Last Updated on 20/09/2026 21:03:30 UTC
 <!--END_SECTION:waka-->
 
 ---
