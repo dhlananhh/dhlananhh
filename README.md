@@ -181,42 +181,42 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-HTML                     7 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
-Python                   5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-Text                     4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Markdown                 2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+HTML                     6 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.14 % 
+Python                   5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Text                     4 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Markdown                 2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+JavaScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 35 mins      █████████████████░░░░░░░░   66.67 % 
-Sublime Text             3 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-VS Code                  3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Claude Code              12 hrs 46 mins      ████████████████░░░░░░░░░   64.43 % 
+Sublime Text             4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+VS Code                  2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 
 💻 Operating System: 
-Windows                  20 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 10 mins (74.4%)
+⏱ AI Coding Time: 14 hrs 33 mins (73.4%)
 
-✍️ 17,223 lines written by AI, 284 lines written by hand (98.38% AI-written)
+✍️ 17,993 lines written by AI, 233 lines written by hand (98.72% AI-written)
 
-🔤 9,494,729 Input Tokens, 2,553,356 Output Tokens
+🔤 9,200,647 Input Tokens, 2,567,571 Output Tokens
 
-💵 $173.42 Estimated AI Cost This Week
+💵 $178.76 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 156 AI Prompts
+🧠 21 AI Sessions, 144 AI Prompts
 
-Opus                     17,237 lines        █████████████████████████   100.00 % 
+Opus                     18,011 lines        █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.38% of written lines came from AI
-📚 Verbose Prompter — average 3,099 characters per prompt
+🤖 AI-Driven — 98.72% of written lines came from AI
+📚 Verbose Prompter — average 3,306 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.28% of changed lines were hand-edited
+🚀 High AI Trust — 2.06% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -236,7 +236,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 22:48:43 UTC
+ Last Updated on 07/10/2026 23:19:07 UTC
 <!--END_SECTION:waka-->
 
 ---
