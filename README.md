@@ -140,7 +140,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -181,41 +181,40 @@ Sunday                   2533 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Markdown                 6 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.21 % 
-Other                    2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-HTML                     2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Text                     2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Markdown                 6 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   39.00 % 
+Other                    2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+HTML                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Text                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Python                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 52 mins      ████████████████████░░░░░   81.24 % 
-Sublime Text             2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Claude Code              13 hrs 27 mins      █████████████████████░░░░   83.55 % 
+Sublime Text             2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
 
 💻 Operating System: 
-Windows                  15 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 25 mins (91.03%)
+⏱ AI Coding Time: 15 hrs (93.18%)
 
-✍️ 6,171 lines written by AI, 140 lines written by hand (97.78% AI-written)
+✍️ 7,603 lines written by AI, 115 lines written by hand (98.51% AI-written)
 
-🔤 6,635,705 Input Tokens, 1,392,910 Output Tokens
+🔤 9,083,760 Input Tokens, 1,544,794 Output Tokens
 
-💵 $95.98 Estimated AI Cost This Week
+💵 $114.44 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 208 AI Prompts
+🧠 38 AI Sessions, 250 AI Prompts
 
-Opus                     6,487 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     7,934 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.78% of written lines came from AI
-📚 Verbose Prompter — average 2,611 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.32% of changed lines were hand-edited
+🤖 AI-Driven — 98.51% of written lines came from AI
+📚 Verbose Prompter — average 2,384 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -235,7 +234,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dhlananhh/dhlananhh/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 22:50:00 UTC
+ Last Updated on 29/10/2026 22:59:29 UTC
 <!--END_SECTION:waka-->
 
 ---
